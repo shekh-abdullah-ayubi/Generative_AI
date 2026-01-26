@@ -10,8 +10,8 @@ from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.runnables import RunnableConfig
 
 # Import API keys from config
-from config import GROQ_API_KEY, TAVILY_API_KEY
-from vectorstore import get_retriever
+from app.core.config import GROQ_API_KEY, TAVILY_API_KEY
+from app.rag.vectorstore import get_retriever
 
 # --- Tools ---
 os.environ["TAVILY_API_KEY"] = TAVILY_API_KEY

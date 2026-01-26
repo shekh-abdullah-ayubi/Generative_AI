@@ -11,8 +11,8 @@ from langchain_community.document_loaders import PyPDFLoader
 
 
 
-from rag.agent import rag_agent
-from rag.vectorstore import add_document_to_vectorstore
+from app.rag.agent import rag_agent
+from app.rag.vectorstore import add_document_to_vectorstore
 
 # Initialize FastAPI app
 app = FastAPI(
