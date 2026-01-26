@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.local
+.env.*.local
+venv/
+.venv/
+
+# Python
+__pycache__/
+lib/
+wheels/
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Temporary
+*.tmp
+temp/
