@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-core
+langchain_experimental
+langchain_openai
+langgraph
+langchain_neo4j
+neo4j
+openai
+tiktoken
+langchain-nvidia-ai-endpoints
+langchain-groq
+pdfplumber
