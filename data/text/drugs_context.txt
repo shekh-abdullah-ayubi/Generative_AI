@@ -13,7 +13,10 @@ Jeremy Bennett, MD Jonas Pearson, RPh
 Kim Castelnovo, RPh Angela Scarantino
 Kimberly Clark, Pharm.D. William Seavey, Pharm.D.
 Bhargavi Degapudi, MD Michael Shepherd, MD
-Michael Dubartell, MD
+Michae
+
+Page 2:
+l Dubartell, MD
 Kelly Faust, Pharm.D.
 Tricia Heitzman, Pharm.D.
 Jason Howay, Pharm.D.
@@ -36,7 +39,7 @@ Andrei Nemoianu, MD
 Austin Paisley, Pharm.D.
 Lauren Pheasant, Ph
 
-Page 2:
+Page 3:
 arm.D.
 Kimberly Reichard, Pharm.D.
 Melissa Sartori, Pharm.D.
@@ -56,12 +59,15 @@ Margaret Whiteash, Pharm.D.
 Benjamin Andrick, Pharm.D. (non-voting participant)
 Birju Bhatt, MD (non-voting participant)
 Shelby Chan (pharmacy student)
+
+
+Page 4:
 Alfred Denio, MD (non-voting participant)
 Jeremy Garris, Pharm.D. (non-voting participant)
 Macy Meng (pharmacy student)
 Call to Order:
 
-Page 3:
+Page 5:
 Dr. Bret Yarczower called the meeting to order at 1:02 p.m., Tuesday, September 17, 2024.
 Review and Approval of Minutes:
 Dr. Bret Yarczower asked for a motion or approval to accept the June e-vote and July 16, 2024 minutes as written.
@@ -69,116 +75,143 @@ Minutes approved unanimously. None were opposed.
 DRUG REVIEWS
 TECELRA (afamitresgene autoleucel)
 Review: Tecelra is a melanoma-associated antigen A4 (MAGE-A4)-directed genetically modified autologous T cell
-immunotherapy indicated for the treatment of adults with unresectable or metastatic synovial sarcoma who have received
+immunotherapy indicated for the treatment of adults with 
+
+Page 6:
+unresectable or metastatic synovial sarcoma who have received
 prior chemotherapy, are HLA-A*02:01P, -A*02:02P, -A02:03P, or -A02:06P positive and whose tumor expresses the
 MAGE-A4 antigen as determined by FDA-approved or cleared companion diagnostic devices. This indication is approved
 under accelerated approval based on overall response rate and duration of response. Tecelra is the first FDA-approved T-
 cell receptor (TCR) gene therapy. It consists of CD4 and CD8 positive T cells transduced wit
 
-Page 4:
+Page 7:
 h a self-inactivating lentiviral
 vector (LV) expressing an affinity-enhanced T-cell receptor (TCR) specific for the human melanoma-associated antigen
 A4 (MAGE-A4), which is highly expressed in human leukocyte antigen (HLA)-A*02–positive synovial sarcoma and has
 restricted expression in normal tissues. Antigen-specific activation of Tecelra via TCR-peptide-HLA-A*02 complex results
 in T-cell proliferation, cytokine secretion, and killing of MAGE-A4/HLA-A*-2 expressing synovial sarcoma cells.
-Tecelra is prepared from the patient’s peripheral blood mononuclear cells (PBMCs) which are obtained via a standard
+Tecel
+
+Page 8:
+ra is prepared from the patient’s peripheral blood mononuclear cells (PBMCs) which are obtained via a standard
 leukapheresis procedure. The PBMCs are enriched for T cells and are then transduced with replication-incompetent LV
 contain the MAGE-A4 TCR transgene. The transduced T cells are expanded, washed, formulated into a suspension and
 cryopreserved. The drug product formulation contains 5% dimethyl sulfoxide (DMSO).
 The recommended dose of Tecelra is 2.68 x 109 to 10 x 109 MAGE-A4 T cell rece
 
-Page 5:
+Page 9:
 ptor (TCR) positive T cells administered
 as a single intravenous infusion. Tecelra is provided as a single dose for infusion in one or more infusion bag(s).
 Prior to the administration of Tecelra, the patient will receive a lymphodepleting chemotherapy regimen of fludarabine 30
 mg/m2/day intravenously for 4 days starting on the 7th day before Tecelra infusion (Day 7 to Day 4) and
 cyclophosphamide 600 mg/m2/day intravenously for 3 days starting the seventh day before Tecelra infusion (Day 7 to
-Day 5). Patients should be premedicated with an H1-antihistamine and acetaminophen approximately 30 to 60 minutes
+Da
+
+Page 10:
+y 5). Patients should be premedicated with an H1-antihistamine and acetaminophen approximately 30 to 60 minutes
 prior to Tecelra infusion. Prophylactic systemic corticosteroids should be avoided as they may interfere with the activity of
 Tecelra.
 The efficacy of Tecelra was evaluated in a mutli-cohort, single-arm, open-label clinical trial (SPEARHEAD-1, Cohort 1) in
 HLA-A*02:01P, HLA-A*02:02P, HLA-A*02:03P, and 383 HLA-A*02:06P allele positive patients with inoperable or
 metastatic synovial sarc
 
-Page 6:
+Page 11:
 oma who had received prior systemic therapy with either doxorubicin and/or ifosfamide and
 whose tumor expressed he MAGE-A4 tumor antigen. The study included patients with measurable disease according to
 RECIST v1.1, ECOG status scores of 0 or 1, and glomerular filtration rate (GFR) ≥ 60 mL/min. The study excluded
 patients with HLA-A*02:05P in either allele, patients on systemic corticosteroids for at least 14 days prior to leukapheresis
-and lymphodepletion, and recipients of allogeneic hematopoietic stem cell transplants.
+and lymphodepletion, and recipients of allogeneic hematopoi
+
+Page 12:
+etic stem cell transplants.
 Patients had tumor samples tested for MAGE-A4 expression by immunohistochemistry (IHC) clinical trial assay at a
 centralized testing site. Patients underwent leukapheresis for collection of autologous cells for processing and
 manufacture into Tecelra. Risk of manufacturing or delivery failure was 8% (4/52) patients in the clinical trial. Patients
 underwent lymphodepleting chemotherapy with fludarabine and cyclophosphamide as recommended then received
 Tecelra administr
 
-Page 7:
+Page 13:
 ation as a single IV infusion on Day 1. Fifty-two patients were enrolled and underwent leukapheresis,
 eight of whom did not receive Tecelra due to the following: death (n=3), loss of eligibility prior to lymphodepleting
 chemotherapy (n=3), withdrawal by the patient (n=1), and investigator decision (n=1). Forty-five patients with synovial
 sarcoma received lymphodepletion and one patient withdrew consent before receiving Tecelra (n=44).
-The median number of prior lines of systemic therapies was three (range: 1 to 12 lines). Prior therapies included
+The median number of prior lines of systemic therapies was th
+
+Page 14:
+ree (range: 1 to 12 lines). Prior therapies included
 ifosfamide (100%), doxorubicin (95%), pazopanib (48%), trabectedin (25%), dacarbazine (11%), and gemcitabine (11%).
 Between leukapheresis and initiation of lymphodepletion, 16 (36%) of the 44 patients received bridging therapy. The most
 commonly used bridging therapy was pazopanib (69%). The median dose of Tecelra was 8x10 416 9 MAGE-A4 TCR
 positive T cells (range: 2.68 x 109 to 9.99 x109 417).
 The major efficacy outcome measure was overall re
 
-Page 8:
+Page 15:
 sponse rate (ORR) according to RECIST v1.1 evaluated by
 independent review committee (IRC). Duration or response was also evaluated.
 
-Page 9:
+Page 16:
 The median time to response from Tecelra treatment was 4.9 weeks (95% CI: 4.4 weeks, 8 weeks) by Kaplan Meier
 estimation.
 Tecelra is contraindicated in adults who are heterozygous or homozygous for HLA-A*02:05P. There is a black box
 warning for cytokine release syndrome, including potentially life threatening reactions which have been observed following
 administration of Tecelra. CRS occurred in 75% of patients, 2% of whom had Grade 3 or greater CRS. The most common
-symptoms were fever, tachycardia, hypotension, nausea/vomiting, and headache. Thirteen patients were treated with one
+symptoms were fever, tachycar
+
+Page 17:
+dia, hypotension, nausea/vomiting, and headache. Thirteen patients were treated with one
 dose of tocilizumab and five patients received more than one dose. Immune Effector Cell-associated Neurotoxicity
 Syndrome (ICANS) has also been observed following administration of Tecelra. One patient (2%) had Grade 1 ICANs.
 Symptoms included mild mental status changes. Other symptoms can include disorientation to time and place, mild
 drowsiness, mild inattention. Severe symptoms 6 169 may include altered l
 
-Page 10:
+Page 18:
 evel of consciousness, seizures, cerebral
 edema, impairment of cognitive skills, progressive aphasia, motor weakness.
 Other warnings include prolonged severe cytopenia, including neutropenia and thrombocytopenia, risk of infection/viral
 reactivation, secondary malignancies, hypersensitivity reactions, and the potential for HIV nucleic acid test false-positive
 results.
 In clinical trials, serious adverse reactions occurred in 52% of patients with synovial sarcoma treated with Tecelra. The
-most common serious adverse reaction include CRS and pleural effusion. The most common adverse reactions were
+most co
+
+Page 19:
+mmon serious adverse reaction include CRS and pleural effusion. The most common adverse reactions were
 CRS, nausea, vomiting, fatigue, infections, pyrexia, constipation, dyspnea, abdominal pain, non-cardiac chest pain,
 decreased appetite, tachycardia, back pain, hypotension, diarrhea, and edema. The most common grade 3 or 4 laboratory
 abnormalities were decreased lymphocyte count, decreased neutrophil count, decreased white blood cell count,
 decreased red blood cell count, and decreased platelet
 
-Page 11:
+Page 20:
 s.
 The safety and efficacy of Tecelra has not been established in pediatric patients. Of the 44 patients with synovial sarcoma
 in the SPEARHEAD-1 study, 6.8% were 65 years of age and older. Clinical studies did not include sufficient numbers of
 patients aged 65 years and older to determine if they respond differently from younger patients. A Clinical Review
 including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a Financial Review Based
-on Cost Analysis were presented.
+on Cost Analysis were 
+
+Page 21:
+presented.
 Clinical Discussion: Dr. Bret Yarczower stated that this medication may only be available at Penn in Pennsylvania. Kim
 Reichard, PharmD, stated that this medication is limited distribution. Ben Andrick, PharmD, confirmed that it is limited
 distribution and the clinical enterprise are holding off on initial adoption of this therapy until more data becomes available.
 Dr. Yarczower asked if the health plan is able hold off until we get more data or if we are required to cover since it is
 
-Page 12:
+Page 22:
  now
 FDA approved and available. Kim Reichard, PharmD, stated that the preference would be to have criteria in place for
 medical since we may be seeing requests for the drug. Kim Clark, PharmD, stated that they got clarification from the office
 of CHIP that gene therapies are not eligible for coverage – if the member were to qualify for this they would be directed to
 Medicaid. Dr. Yarczower asked how the contracts with Penn are structured since percent of charge will lead to increased
-spend and if we should contact the contracting process. The committee unanimously voted to accept the
+spend and 
+
+Page 23:
+if we should contact the contracting process. The committee unanimously voted to accept the
 recommendations as presented (36 approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (37 approvals). None were opposed.
 Outcome: Tecelra is a medical benefit and will require a prior authorization. Tecelra will be added to the medical benefit
 cost share list. The following prior authorization criteria wil
 
-Page 13:
+Page 24:
 l apply:
 • Medical record documentation that Tecelra is prescribed by a hematologist or oncologist AND
 • Medical record documentation of age greater than or equal to 18 years AND
@@ -186,7 +219,10 @@ l apply:
 • Medical record documentation of at least one (1) prior chemotherapy treatment AND
 • Medical record documentation that member is HLA-A*02:01P, HLA-A*02:02P, HLA-A*02:03P, and HLA-A*02:06P
 allele–positive* AND
-• Medical record documentation that the member has not had a prior allogeneic hematopoietic stem cell transplant
+• Medical record documentatio
+
+Page 25:
+n that the member has not had a prior allogeneic hematopoietic stem cell transplant
 AND
 • Medical record documentation of tumor expression of melanoma-associated antigen A4 (MAGE-A4)
 NOTE: Tecelra is contraindicated for patients who are heterozygous or homozygous for HLA-A*02:05P based on an
@@ -194,84 +230,105 @@ alloreactivity screen which indicated in vitro alloreactivity against HLA-A*02:0
 AUTHORIZATION DURATION: One-time authorization for one administration of Tecelra
 Additional evidence of the criteria used to
 
-Page 14:
+Page 26:
  make this decision can be found in the drug review presented to the committee.
 
-Page 15:
+Page 27:
 XOLREMDI (mavorixafor)
 Review: Xolremdi is a selective CXC chemokine receptor 4 (CXCR4) antagonist indicated for patients 12 years of age
 and older with warts, hypogammaglobulinemia (deficiency in immunoglobulins), infections and myelokathexis (retention of
 neutrophils in the bone marrow), or WHIM syndrome, to increase the number of circulating mature neutrophils and
 lymphocytes. The recommended dosing of Xolremdi is 400mg once daily for patients weighing more than 50kg and
-300mg once daily for patients weighing less than or equal to 50kg. Xolremdi is available as 100mg capsules and should
+300mg once daily for 
+
+Page 28:
+patients weighing less than or equal to 50kg. Xolremdi is available as 100mg capsules and should
 be given on an empty stomach after an overnight fast and at least 30 minutes before food. Xolremdi should be stored in
 its original container and refrigerated at 36°F to 46°F until expiration date. Xolremdi capsules should be swallowed whole
 and should not be opened, broken or chewed. If a dose of Xolremdi is missed, the next dose should be taken as
 scheduled.
 WHIM syndrome is an ultra-rare primary i
 
-Page 16:
+Page 29:
 mmunodeficiency predominantly caused by genetic variations to the CXCR4
 receptor. This receptor regulates the mobilization of white blood cells from the bone marrow to the peripheral
 bloodstream. Mutations to CXCR4 causes an increased white blood cell response to CXCR4 ligand, CXCL12. The
 enhanced response disrupts the signaling pathway and the mobilization of white blood cells from the bone marrow to the
-peripheral bloodstream is decreased. This results in almost all patients having neutropenia and myelokathexis. Due to
+peripheral bloodstream is decreased. This results in almost all patients having neutropenia
+
+Page 30:
+ and myelokathexis. Due to
 immunodeficiencies, patients have increased susceptibility to bacterial and viral infections, skin and genital warts, and an
 increased risk of cancer caused by human papillomavirus (HPV) infections.
 The manufacturer estimates that only one in four patients have all four key features of the disease present which makes
 diagnosis difficult. Diagnosis for WHIM can be made based on symptoms, patient history, clinical testing, and genetic
 testing. Some patients with symptoms
 
-Page 17:
+Page 31:
  of WHIM do not have a detectable mutation in the CXCR4 gene, so the disorder
 may have other genetic causes and demonstration of enhanced white blood cell responsiveness to CXCL12 in patients
 without a confirmed CXCR4 defect may be observed. A bone marrow biopsy may also be performed, which could reveal
 myelokathexis, which strongly suggests WHIM syndrome. Most patients develop symptoms in early childhood with some
-having mild symptoms that usually respond to antibiotic therapy, while others develop potentially life-threatening
+having mild symptoms that usually respond to antibiotic therapy, while others dev
+
+Page 32:
+elop potentially life-threatening
 complications. There are approximately 100 reported cases in medical literature, but the manufacturer estimates that
 there are at least 1,000 patients with WHIM syndrome in the United States. Due to this ultra-rare type of disease, patients
 with WHIM syndrome are likely underdiagnosed.
 There are no current guidelines for WHIM syndrome and current treatment therapies are directed to target symptoms of
 WHIM syndrome, as there have not been any FDA-approved medicat
 
-Page 18:
+Page 33:
 ion to treat the underlying cause. Colony stimulating
 factor injections have been used to treat neutropenia, immunoglobulin injections have been used to treat
 hypogammaglobulinemia, antivirals and antibiotics have been used to treat infections, and prophylactic use of antibiotics
 may be considered. HPV vaccines can be administered to help prevent HPV infections, but patients may have a reduced
-vaccine response. Plerixafor, a CXCR4 antagonist, has been studied in WHIM syndrome, but is not FDA-approved for use
+vaccine response. Plerixafor, a CXCR4 antagonist, has been studied in WHIM syndrome, but is not FDA-app
+
+Page 34:
+roved for use
 and there are no formal recommendations for its use. A bone marrow transplant may cure some symptoms of WHIM
 syndrome, but risk may outweigh the benefits. Xolremdi is the first and only FDA-approved treatment specifically indicated
 for the underlying cause of WHIM syndrome. Xolremdi works to block CXCL12 from binding to both wild-type and mutated
 CXCR4 variants to inhibit the enhanced responsiveness and retention of white blood cells in the bone marrow. This
 results in increased mo
 
-Page 19:
+Page 35:
 bilization of white blood cells from the bone marrow to the peripheral bloodstream.
 The efficacy of Xolremdi was evaluated in the randomized, double-blind, multicenter 4WHIM trial (NCT03995108). The
 4WHIM trial compared Xolremdi to placebo with 31 participants aged 12 years and older. All patients had a genotype-
 confirmed variant of CXCR4 consistent with WHIM syndrome and a confirmed absolute neutrophil count (ANC) of less
-than or equal to 400 cells/μL. Patients diagnosed with an active infection (excluding warts), use of other CXCR4
+than or equal to 400 cells/μL. Patients diagnosed with an active infecti
+
+Page 36:
+on (excluding warts), use of other CXCR4
 antagonists, use of plerixafor within 6 months, use of chronic or prophylactic colony stimulating factors or systemic
 glucocorticoids within 2 weeks, or use of any investigational therapy within less than or equal to 5 half-lives of the drug or
 2 weeks (whichever was longer) were excluded from the trial. Patients were allowed to continue, but not initiate,
 immunoglobulin therapy at the same dose during the trial. The study lasted 52 weeks and 14 patients 
 
-Page 20:
+Page 37:
 received Xolremdi,
 while 17 patients received placebo. Xolremdi was administered orally once daily with patients receiving 400mg if weight
 was more than 50kg and 200mg if weight was less than or equal to 50kg.
 The primary endpoint was the effect of Xolremdi on improvement of ANC. The mean time above threshold in hours for an
 ANC of 500 cells/μL over a 24-hour period was assessed every 3 months for a total of 4 times throughout the trial.
-Xolremdi-treated patients had significantly more time above the threshold, with a least squares (LS) mean time above
+Xolremdi-treated patients had significantly more time abov
+
+Page 38:
+e the threshold, with a least squares (LS) mean time above
 threshold of 15 hours, versus a least squares (LS) mean time above threshold of 2.8 hours for placebo-treated patients.
 
-Page 21:
+Page 39:
 The secondary endpoint was the effect of Xolremdi on improvement of absolute lymphocyte counts (ALC). The mean time
 above threshold in hours for an ALC of 1,000 cells/μL over a 24-hour period was assessed every 3 months for a total of 4
 times throughout the trial. Xolremdi-treated patients had significantly more time above the threshold, with a least squares
 (LS) mean time above threshold of 15.8 hours, versus a least squares (LS) mean time above threshold of 4.6 hours for
-placebo-treated patients.
+placebo-treated patien
+
+Page 40:
+ts.
 The efficacy of Xolremdi was further assessed in a composite endpoint consisting of total infection score and total wart
 change score using a win-ratio method. The win-ratio was calculated by dividing the number of pairs where the Xolremdi-
 treated patient had a better outcome, or “win”, by the number of pairs where the placebo-treated patient had a better
@@ -279,49 +336,61 @@ outcome.
 For every pair of patients, the Xolremdi-treated patient was 2.76 times more likely to have a better outcome compared to
 placebo
 
-Page 22:
+Page 41:
 -treated patients. Analyses of individual components of the composite endpoint showed an approximate 40%
 reduction in the total infection score, weighted by infection severity, in Xolremdi-treated patients versus placebo-treated
 patients. The annualized infection rate was reduced by approximately 60% in Xolremdi-treated patients versus placebo-
 treated patients. The total wart change score did not have any significant difference between the Xolremdi-treated patients
 and placebo-treated patients.
+
+Page 42:
+
 The safety of Xolremdi was evaluated in the 4WHIM trial. The most common adverse reactions were thrombocytopenia,
 pityriasis, rash, rhinitis, epistaxis, vomiting, and dizziness, which was experienced in more than 10% of Xolremdi-treated
 patients versus placebo-treated patients. Safety and efficacy of Xolremdi have not been established in patients less than
 12 years of age. Two patients in the 4WHIM trial were aged 65 and older, but no patients were aged 75 years and older.
 The trial did not inc
 
-Page 23:
+Page 43:
 lude enough patients aged 65 and older to determine whether they respond differently. Xolremdi is not
 recommended for use in patients with severe renal impairment, end-stage renal disease, or moderate to severe hepatic
 impairment. No dosage adjustment is recommended for patients with mild to moderate renal impairment or mild hepatic
 impairment.
 Xolremdi is contraindicated with concomitant use of drugs that are highly dependent on CYP2D6 for clearance. Warnings
-and precautions include embryo-fetal toxicity and QTc interval prolongation. There is no available data on Xolremdi use in
+and precautions include embryo-feta
+
+Page 44:
+l toxicity and QTc interval prolongation. There is no available data on Xolremdi use in
 pregnant patients, but Xolremdi is expected to cause fetal harm when administered to pregnant patients due to the
 mechanism of action. Pregnancy status of female patients should be verified prior to starting the medication.
 Breastfeeding is not recommended and an effective method of contraception should be advised to females of reproductive
 potential during treatment with Xolremdi and for three weeks after th
 
-Page 24:
+Page 45:
 e final dose. Xolremdi causes concentration-
 dependent QTc interval prolongation and therefore can cause QT interval prolongation when taken with concomitant
 medications that increase Xolremdi exposure and/or drug products with known potential to prolong QT. Modifiable risk
 factors should be corrected, QTc should be assessed at baseline, and QTc should be monitored during treatment. The
-dose of Xolremdi may need to be reduced or discontinued due to drug-drug interactions. The daily dose of Xolremdi
+dose of Xolremdi may need to be reduced or discontinued due to drug-drug interactions. The daily dose of Xolre
+
+Page 46:
+mdi
 should be decreased by increments of 100mg, if necessary, but not to a dose less than 200mg when used with strong or
 moderate CYP3A4 inhibitors and P-gp inhibitors. Xolremdi should be avoided with strong CYP3A4 inducers.
 A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
 Financial Review Based on Cost Analysis were presented.
 Clinical Discussion: Dr. Bret Yarczower stated this is a rare disease state and asked if there was a statu
 
-Page 25:
+Page 47:
 s of these
 patients before they stopped their treatment and then a comparison to how patients responded to stopping this treatment.
 Dr. Yarczower stated that there was a high rate of infections and stated there are other treatments for the symptoms of
 WHIM syndrome and maybe plerixafor is a better option. Kirsten Smith, PharmD, stated that there were no efficacy
 studies of use of plerixafor in WHIM syndrome patients. The committee unanimously voted to accept the
-recommendations as presented (35 approvals). None were opposed.
+recommendations as presented (35 
+
+Page 48:
+approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (37 approvals). None were opposed.
 Outcome: Xolremdi will be a pharmacy benefit and will be added to the Commercial, Exchange, and CHIP formularies at
@@ -329,7 +398,7 @@ the Specialty tier or Brand Non-Preferred tier for members with a three-tier ben
 criteria should apply:
 • Medical record documentation of a diagnosis of WHI
 
-Page 26:
+Page 49:
 M (warts, hypogammaglobulinemia, infections, and
 myelokathexis) syndrome AND
 • Medical record documentation of symptoms and complications associated with WHIM syndrome AND
@@ -337,13 +406,16 @@ myelokathexis) syndrome AND
 • Medical Record documentation that Xolremdi is being prescribed by an immunologist or hematologist AND
 • Medical record documentation of member’s weight AND
 
-Page 27:
+Page 50:
 • Medical record documentation of baseline absolute neutrophil count (ANC) and absolute lymphocyte count (ALC)
 AUTHORIZATION DURATION: Approval will be given for an initial duration of 6 months or less if the reviewing
 provider feels it is medically appropriate. After the initial 6 month approval, subsequent approvals will be for a
 duration of 12 months or less if the reviewing provider feels it is medically appropriate, requiring medical record
 documentation of:
-• Medical record documentation or provider attestation of continued disease improvement (such as, but not
+• Medical record documentation o
+
+Page 51:
+r provider attestation of continued disease improvement (such as, but not
 limited to, a decrease in infections, or sustained improvement in absolute neutrophil count (ANC) and
 absolute lymphocyte count (ALC))
 QUANTITY LIMIT: 4 capsules per day
@@ -352,26 +424,32 @@ Additional evidence of the criteria used to make this decision can be found in t
 WINREVAIR (sotatercept)
 Review: Winrevair is an activin signaling inhibitor indicated for the treatment of adults w
 
-Page 28:
+Page 52:
 ith pulmonary arterial
 hypertension (PAH, WHO Group 1) to increase exercise capacity, improve WHO functional class (FC) and reduce the risk
 of clinical worsening events. Winrevair improves the balance between pro-proliferative and anti-proliferative signaling to
 modulate vascular proliferation. In rat models, Winrevair reduced inflammation and inhibited proliferation of endothelial
 and smooth muscle cells in diseased vasculature. Winrevair offers a new mechanism of action compared to other
-treatment options for PAH.
+treat
+
+Page 53:
+ment options for PAH.
 Current treatment guidelines for patients with PAH recommend upfront dual therapy with an endothelin receptor
 antagonist (ERA) and phosphodiesterase-5 inhibitor (PDE5i) in patients with a low- or intermediate risk status and triple
 therapy (one drug targeting each vasodilatory pathway) for patients with high mortality risk.
 Winrevair is administered once every 3 weeks by subcutaneous injection according to body weight. The recommended
 starting dose is 0.3 mg/kg. Patients’ h
 
-Page 29:
+Page 54:
 emoglobin (Hgb) and platelet count prior to initiation of Winrevair and Winrevair
 should not be initiated in patients with platelet count is <50,000/mm3 (<50 x 109/L).
 The patient’s Hgb and platelet count should be checked prior to each dose for the first 5 doses, or if values are unstable,
 and then periodically thereafter. Treatment should be delayed for at least three weeks the following circumstances:
 • Hgb increases >2.0 g/dL from the previous dose and is above ULN.
-• Hgb increases >4.0 g/dL from baseline.
+• Hgb increases >4.0 g/dL
+
+Page 55:
+ from baseline.
 • Hgb increases >2.0 g/dL above ULN.
 • Platelet count decreases to <50,000/mm3 (<50 x 109/L)
 The Hgb and platelet count should be rechecked prior to reinitiating treatment. For treatment delays lasting >9 weeks,
@@ -380,54 +458,66 @@ Winrevair should be used under the guidance of a healthcare professional but can
 caregivers when appropriate.
 Winrevair is supplied 
 
-Page 30:
+Page 56:
 as single-dose vials (45 mg or 60 mg) packaged in kits (Table 8) that contain one or two single-dose
 vials, one measuring syringe, and one safety needle.
 The efficacy of Winrevair was evaluated in 323 adult patients with PAH (WHO Group 1 FC II or III) in STELLAR, a double-
 blind, placebo-controlled, parallel group trial. Patients were randomized 1:1 to receive Winrevair (n=163) or placebo
 (n=160) administered subcutaneously every 3 weeks.
-Most participants were receiving three (61%) or two (35%) background drugs for PAH, and 40% were receiving
+Most participants were receiving three (61%) or two (35%)
+
+Page 57:
+ background drugs for PAH, and 40% were receiving
 prostacyclin infusions. Patients included had a WHO FC II (49%) or III (51%) at baseline.
 The primary efficacy endpoint was the change from baseline at Week 24 in 6-minute walk distance (6 MWD). In the
 Winrevair group, the placebo-adjusted median increase in 6 MWD was 41 meters (95% CI: 28, 54; p<0.001). Treatment
 with Winrevair led to an improvement from baseline by at least 1 WHO FC at Week 24 in 29% of patients compared to
 14% of placebo treat
 
-Page 31:
+Page 58:
 ed patients (p<0.001). Treatment with Winrevair resulted in 84% reduction in the occurrence of
 death from any cause or PAH clinical worsening events compared to placebo.
 
-Page 32:
+Page 59:
 Winrevair includes warnings for increases in hemoglobin and risk of erythrocytosis which may increase the risk of
 thromboembolic events or hyperviscosity syndrome. In clinical studies, moderate elevations in Hgb (> 2 g/dL above ULN)
 occurred in 15% of patients taking Winrevair while no elevations ≥ 4 g/dL above ULN were observed. Winrevair also
 includes warnings for decreased platelet count and risk of severe thrombocytopenia which may increase the risk of
-bleeding. In clinical studies, severe thrombocytopenia (platelet count <50,000/mm3 [<50 x 109/L]) occurred in 3% of
+bleeding. In clinical studies, severe t
+
+Page 60:
+hrombocytopenia (platelet count <50,000/mm3 [<50 x 109/L]) occurred in 3% of
 patients taking Winrevair. Other warnings include risk of serious bleeding, embryo-fetal toxicity, and impaired fertility.
 The most common adverse reactions in the STELLAR trial included headache, epistaxis, rash, telangiectasia, diarrhea,
 dizziness, and erythema. Increases in hemoglobin from normal to above normal limits occurred in 87 (53%) of patients
 and were managed by dose delays, dose reductions, or both. Decreas
 
-Page 33:
+Page 61:
 es in platelets from normal to below normal
 occurred in 40 (25%) of patients and were managed by dose delays, dose reductions, or both.
 The incidence of treatment discontinuation due to adverse reaction were 4% in the Winrevair group and 7% in the placebo
 group. No specific adverse reactions causing treatment discontinuation occurred with a frequency greater than 1% and
 more often in the Winrevair group.
-The safety and efficacy of Winrevair has not been established in patients less than 18 years of age. A total of 81 patients
+The safety and efficacy of Winrevair has not been established in patients less than 18 years
+
+Page 62:
+ of age. A total of 81 patients
 ≥ 65 years of age participated in clinical studies for PAH, of which 52 were treated with Winrevair. No differences in
 efficacy were observed between older and younger patients. With the exception of bleeding events, there were no
 differences in safety between older and younger groups. Bleeding events occurred more commonly in the older Winrevair
 subgroup, but with no imbalance between age subgroups for any specific bleeding events. Clinical studies did not includ
 
-Page 34:
+Page 63:
 e
 sufficient numbers of patients aged 75 and older to determine whether they respond differently from younger patients.
 A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
 Financial Review Based on Cost Analysis were presented.
 Clinical Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (36 approvals). None were opposed.
-Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
+Financial Discussion: No comments or questions. The co
+
+Page 64:
+mmittee unanimously voted to accept the recommendations as
 presented (38 approvals). None were opposed.
 Outcome: Winrevair is a pharmacy benefit and will not be added to the Commercial, Marketplace, and GHP Kids
 formularies. The following prior authorization criteria will apply:
@@ -435,13 +525,16 @@ formularies. The following prior authorization criteria will apply:
 • Medical record documentation of age greater than or equal to 18 years AND
 • Medical record documentation of World Healt
 
-Page 35:
+Page 65:
 h Organization (WHO) Group 1 pulmonary arterial hypertension b
 • Medical record documentation of World Health Organization (WHO) functional class II or III symptoms AND
 • Medical record documentation of a baseline 6-minute walking distance AND
 • Medical record documentation of therapeutic failure, intolerance to, or contraindication to one (1) formulary
 endothelin receptor antagonist (ERA) in combination with one (1) formulary phosphodiesterase-5 inhibitor (PDE5i)
-or one (1) soluble guanylate cyclase (sGC) stimulator
+or one (1) soluble guanylate cy
+
+Page 66:
+clase (sGC) stimulator
 AUTHORIZATION DURATION: Initial authorization will be for 6 months. Subsequent authorizations will be for 6
 months and will require:
 • Medical record documentation of a 6-minute walking distance improved from baseline
@@ -450,7 +543,7 @@ QUANTITY LIMIT:
 • 60 mg x 1 (1.3 mL) Syringe Kit (NDC 0006-5091-01) – 2 Kits (2.6 milliliter) per 21 days
 • 45 mg x 2 (1 mL) Syringes Kit (NDC 0006-5087-01) – 1 Kits (2 mill
 
-Page 36:
+Page 67:
 iliter) per 21 days
 • 60 mg x 2 (1.3 mL) Syringes Kit (NDC 0006-5088-01) – 1 Kits (2.6 milliliter) per 21 days
 GPI LEVEL: GPI-12
@@ -459,138 +552,174 @@ endothelin receptor antagonist (ERA) : ambrisentan*, bosentan*, Opsumit*, Tracle
 phosphodiesterase-5 inhibitor (PDE5i) :alyq*, sildenafil 20 mg tablet*, sildenafil 10 mg/mL suspension*, tadalafil
 (pah) 20 mg tab*
 soluble guanylate cyclase (sGC) stimulator : Adempas*
-Prostaglandin Vasodilators: epoprostenol*, treprostinil*, Tyvaso*, Tyvaso DPI*, Ventavis*
+Prostaglandin Vasodilators: epoprostenol*, treprostinil*, Tyvaso*, Tyvaso DPI
 
-Page 37:
+Page 68:
+*, Ventavis*
+
+Page 69:
 Prostacyclin Receptor Agonist: Uptravi*
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 OPSYNVI (macitentan-tadalafil)
 Review: Opsynvi is a combination drug that contains macitentan and tadalafil. It is FDA approved for the indication of
 chronic treatment of adults with pulmonary arterial hypertension (PAH, WHO Group I and WHO Functional Class (FC) II-
-III). Individually, macitentan is approved for PAH to reduce the risk of clinical worsening events and hospitalization, and
+III). Individually, macitentan is approved for PAH to reduce the risk 
+
+Page 70:
+of clinical worsening events and hospitalization, and
 tadalafil for PAH to improve exercise ability. Macitentan is an endothelin receptor antagonist (ERA) for receptors ETa and
 ETb on vascular endothelium and smooth muscle. When these receptors are stimulated, vasoconstriction, fibrosis,
 proliferation, hypertrophy, and inflammation occur. Macitentan blocks receptor to avoid stimulation. Tadalafil is a
 phosphodiesterase-5 enzyme inhibitor (PDE-5 Inhibitor). PDE-5 enzyme is responsible to break do
 
-Page 38:
+Page 71:
 wn cyclic guanosine
 monophosphate (cGMP), which results in more vasoconstriction. When PDE-5 is inhibited, more cGMP is kept and results
 in greater pulmonary vasculature relaxation and vasodilation.
 Opsynvi is supplied as an oblong tablet that is either pink or white, depending on strength. Two strengths exist,
 macitentan 10mg/tadalafil 20mg and macitentan 10mg/tadalafil 40mg. Opsynvi is dosed once daily with or without food.
-Tablets should be swallowed whole, and should not be cut, crushed, or chewed. If a dose is missed, take the missed
+Tablets should be swallowed whole, and should not be cut, crushed, or 
+
+Page 72:
+chewed. If a dose is missed, take the missed
 tablet as soon as possible and resume next dose at regularly scheduled time. A patient should not take 2 doses at the
 same time. For those who are treatment naïve to any PAH specific therapy OR transitioning from ERA monotherapy, it is
 recommended to start dose at Opsynvi 10 mg/20mg daily for one week and titrate to 10 mg/40 mg if tolerated. For those
 transitioning from PDE-5 inhibitor monotherapy or PDE-5 inhibitor and ERA therapy in combination, it 
 
-Page 39:
+Page 73:
 is recommended to
 start at the Opsynvi 10 mg/40mg dose daily dose.
 Pulmonary arterial hypertension (PAH) treatments vary on the subset group being treated. Treated groups are either
 vasoreactive or nonvasoreactive. Only 10 to 20% who test will demonstrate a vasoreactive response. If the type of PAH is
 deemed vasoreactive and in the WHO class I to III, they will start with a trial of a calcium channel blocker (CCB) for one to
-three months. Only about half of the CCB-treated vasoreactive patients respond to that treatment initially, and only about
+three months. Only about half of the CCB-treated vasoreactive patients 
+
+Page 74:
+respond to that treatment initially, and only about
 5% achieve a long-term response on CCBs alone; Long term response defined as an improvement in the WHO functional
 class that is sustained for at least 1 year. For vasoreactive patients who have failed CCB monotherapy or for
 nonvasoreactive patients, suitable agents are dictated by WHO functional classification.
 WHO functional class I is a monotherapy approach based on high-risk features. Due to most patients being asymptomatic
 in this class, mo
 
-Page 40:
+Page 75:
 st are not identified and diagnosed. If diagnosed and deemed treatable, any PAH-indicated agent may be
 started on monotherapy agent; although more suggest that starting dual-therapy earlier may be better long-term results.
 For WHO functional class II or III and treatment naïve, dual combination therapy with an ERA and a cGMP targeted
 therapy like PDE-5 Inhibitor is recommended. Experts prefer ambrisentan and tadalafil combination. If there is a
-contraindication to either agent, another oral agent in the same class can be substituted; both agents being taken must be
+contraindication to either agent, another oral agen
+
+Page 76:
+t in the same class can be substituted; both agents being taken must be
 of separate classes. Such combinations are less proven and drug interactions can limit the outcome. The preference for
 the ambrisentan/tadalafil combination stems from results found from the AMBITION trial. Outcomes seen in this trial may
 not correlate to similar class combinations (ie. Macitentan/tadalafil, bosentan/sildenafil) due to increased metabolism and
 a resulting lowered plasma concentration of the PDE-5 inhibitor. 
 
-Page 41:
+Page 77:
 Following the preferred combination agents, data with the
 strongest level of support are macitentan/sildenafil (SERAPHIN trial), bosentan/tadalafil (PHIRST trial), bosentan/riociguat
 (PATENT-1 study), and selexipag plus ERA and/or PDE5I (GRIPHON trial). The current CHEST guidelines do not
 address the consideration of the Opsynvi combination currently. Finally, WHO functional class IV is usually the dual-
-combination treatment we see in class II and III, plus a third agent, parenteral prostanoid (IV epoprostenol or SQ
+combination treatment we see in class II and III, plus a third agent, parenteral prostanoid 
+
+Page 78:
+(IV epoprostenol or SQ
 treprostinil).
 A multi-national, multi-center, double-blind, adaptive, randomized, active-controlled, parallel-group study [“A DUE”] was
 conducted in 187 patients with PAH, WHO FC II-III to compare the efficacy and safety of Opsynvi to each monotherapy
 macitentan or tadalafil. Patient with pulmonary vascular resistance (PVR) of at least 240 dyn-s/cm5 were randomized to
 receive Opsynvi (n=108), 10mg macitentan monotherapy (n=35) or 40mg tadalafil monotherapy (n=44) once dai
 
-Page 42:
+Page 79:
 ly. The
 primary endpoint was change from baseline in PVR versus the individual component monotherapies after 16 weeks.
 Opsynvi demonstrated greater reduction in PVR after 16 weeks, showing statistically significant effect of 29% reduction in
 PVR as compared to macitentan [0.71 (95% CL 0.61, 0.82, p < 0.0001)] and a 28% reduction in PVR as compared to
 tadalafil [0.72 (95% CL 0.64, 0.80, p < 0.0001)].
-Contraindications to Opsynvi include pregnancy (macitentan shows teratogenic effects and risk to fetus), hypersensitivity
+Contraindications to Opsynvi include pregnancy (macitentan shows teratogenic effects and risk to 
+
+Page 80:
+fetus), hypersensitivity
 to any component of the drug, concomitant use of organic nitrates within 48 hours of each other (tadalafil potentiates
 
-Page 43:
+Page 81:
 hypotensive effect of nitrates), and concomitant guanylate cyclase (GC) stimulators (tadalafil potentiates hypotensive
 effect of nitrates). Warnings and precautions to Opsynvi include:
 • Embryo-fetal toxicity - macitentan-containing product REMS program available for females to comply with
 pregnancy testing and contraception requirements.
 • Hepatotoxicity - ERAs cause elevated aminotransferases and liver failure; liver enzymes should be tested on
-initiation and during treatment. If aminotransferases elevate, if that elevation is accompanied by bilirubin increase
+initiation and during treatment. If aminotransfer
+
+Page 82:
+ases elevate, if that elevation is accompanied by bilirubin increase
 >2x ULN, or presence of symptoms of hepatotoxicity or injury (nausea, vomiting, right upper quadrant pain,
 fatigue, anorexia, jaundice, dark urine, fever, or itching), Opsynvi should be discontinued. Re-initiation may be
 considered if hepatic enzymes normalize with no clinical hepatotoxic symptoms. Initiation should not be done with
 elevated aminotransferases (>3 x ULN at baseline). To note, Opsynvi is not advised for use in he
 
-Page 44:
+Page 83:
 patic cirrhosis
 due to lack of study in patient population.
 • Hypotension – Due to vasodilatory properties of Opsynvi, patients with pre-existing hypotension, autonomic
 dysfunction, or with left ventricular outflow obstruction may be more sensitive to hypotensive issues.
 • Hemoglobin Decrease – ERAs can decrease hemoglobin concentration and hematocrit have occurred early
 during initiation but often stabilize thereafter. Hemoglobin should be measured on initiation and during treatment.
-It is not recommended to use in those with severe anemia.
+It is not 
+
+Page 84:
+recommended to use in those with severe anemia.
 • Worsening Pulmonary Veno-Occlusive Disease (PVOD) – Vasodilators can significantly worsen cardiovascular
 status with those with PVOD. Development of pulmonary edema while on Opsynvi could be an indication of
 PVOD. It is not recommended for use in those with PVOD.
 • Visual Loss – Post marketing reports have been made for non-arteritic anterior optic neuropathy (NAION) in
 association with PDE5 Inhibitors. Use is not recommended in those with known 
 
-Page 45:
+Page 85:
 hereditary degenerative retinal
 disorders.
 • Fluid Retention – While PAH, CHF and side effects of ERAs are known to have fluid retention symptoms, patients
 with left ventricular dysfunction may be at particular risk to develop fluid retention after starting an ERA.
 Discontinuation of Opsynvi may be considered and is dependent on original cause.
 • Decreased Sperm Count – ERAs have known spermatogenesis and may affect fertility.
-• Prolonged Erection – The PDE5 inhibitor component of Opsynvi is associated with prolonged erections greater
+• Prolonged Erection – The PDE5 inhibitor component of Opsynvi is ass
+
+Page 86:
+ociated with prolonged erections greater
 than 4 hours and priapism (painful erections greater than 6 hours. Risk increases in those with a predisposition to
 priapism (i.e. sickle cell anemia, multiple myeloma, leukemia) or in those with a preexisting anatomical
 deformation of the penis (angulation, cavernosal fibrosis). Patients must seek emergent medical attention for an
 erection lasting greater than 4 hours.
 Adverse reactions to Opsynvi include edema, anemia, headache, abdominal pain, hypotens
 
-Page 46:
+Page 87:
 ion,
 myalgia, nasopharyngitis, nausea, increased uterine bleeding, back pain, flushing, vomiting, palpitations, and epistaxis.
 Use of Opsynvi in pregnant women is contraindicated. Use in lactating patients is not recommended; presence of tadalafil
 has been found in lactating rats in animal studies. The safety and efficacy of Opsynvi in pediatric population younger than
 18 years is not established and not recommended. No overall differences in safety and effectiveness were observed
-between those 65 and older and younger subjects. Opsynvi use should be avoided in those with severe renal impairment
+between those 
+
+Page 88:
+65 and older and younger subjects. Opsynvi use should be avoided in those with severe renal impairment
 (CrCl 15-29 mL/min) or those on dialysis due to increased tadalafil exposure. Opsynvi use should be avoided in those with
 severe hepatic impairment (Model for End Stage Liver Disease score >/= 19), or those with elevated hepatic
 aminotransferases (3 x UNL).
 A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
 Financial Review Based on 
 
-Page 47:
+Page 89:
 Cost Analysis were presented.
 Clinical Discussion: Dr. Bret Yarczower asked if we could send the chart on the cost to his clinical colleagues who treat
 PAH. Emily Bednarz, PharmD, stated she can send the chart to Dr. Yarczower. The committee unanimously voted to
 accept the recommendations as presented (36 approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (35 approvals). None were opposed.
-Outcome: Opsynvi is a pharmacy benefit. It is recommended to be non-formulary. Opsynvi will require a prior
+Outc
+
+Page 90:
+ome: Opsynvi is a pharmacy benefit. It is recommended to be non-formulary. Opsynvi will require a prior
 authorization with the following criteria:
 • Medical record documentation that Opsynvi is prescribed by a cardiologist or pulmonologist AND
 • Medical record documentation of World Health Organization (WHO) functional class II, III, or IV pulmonary arterial
@@ -598,11 +727,11 @@ hypertension AND
 • Medical record documentation of a negative pregnancy test in females of childbearing potential b
 • Medical record docume
 
-Page 48:
+Page 91:
 ntation that Opsynvi will not be used concomitantly with organic nitrate therapy and
 guanylate cyclase (GC) stimulators AND
 
-Page 49:
+Page 92:
 • Medical record documentation of therapeutic failure on, intolerance to, or contraindication to 3 formulary
 alternatives
 QUANTITY LIMIT: 30 tablets per 30 days
@@ -610,32 +739,41 @@ FORMULATY ALTERNATIVES: Ambrisentan tablet, Bosentan tablet, Opsumit tablet, Tra
 tablet, Sildenafil Suspension, Alyq tablet, Tadalafil tablet
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 ALYGLO (immune globulin (human)-stwk)
-Review: Alyglo is indicated for the treatment of primary humoral immunodeficiency (PI) in adults (age 17 and older.) This
+Review:
+
+Page 93:
+ Alyglo is indicated for the treatment of primary humoral immunodeficiency (PI) in adults (age 17 and older.) This
 includes, but is not limited to, the humoral immune defect in congenital agammaglobulinemia, common variable
 immunodeficiency (CVID), X-linked agammaglobulinemia, Wiskott-Aldrich syndrome, and severe combined
 immunodeficiency (SCID).
 Alyglo (immune globulin intravenous, human-stwk) is a 10% immune globulin liquid for intravenous injection indicated for
 the treatment of primary humor
 
-Page 50:
+Page 94:
 al immunodeficiency (PI.) Alyglo supplies a broad spectrum of neutralizing IgG antibodies
 to bacterial and viral pathogens, and their toxins. The mechanism of action has not been fully elucidated in PI.
 Alyglo contains mainly IgG with a broad spectrum of antibodies against various infectious agents reflecting the IgG activity
 found in the donor population. Alyglo which is prepared from pooled material, has an IgG subclass distribution similar to
-that of native human plasma. An adequate dose of IVIG can restore abnormally low IgG level to the normal range.
+that of native human plasma. An adequate dose of I
+
+Page 95:
+VIG can restore abnormally low IgG level to the normal range.
 Standard pharmacodynamics studies were not performed.
 GC Biopharma reports that Alyglo is manufactured using a novel Cation Exchange Chromatography (CEX) process to
 remove coagulation factor XIa (FXIa) to undetectable levels. FXIa is potentially a cause of small numbers of
 thromboembolic events in patients receiving immunoglobulin infusions. However, Alyglo prescribing information retains
 the class warning that thrombosis may occur wi
 
-Page 51:
+Page 96:
 th immune globulin intravenous (IGIV) products, including Alyglo.
 Intravenous formulations of immune globulin include Asceniv, Gamunex-C, Gammagard, Octagam, Privigen,
 Flebogamma DIF, Gammaplex, Gammaked, Panzyga, Bivigam, and now Alyglo. Yimmugo was FDA approved in June
 2024, release date currently unknown. Subcutaneous formulations of immune globulin include Hizentra, Hyqvia, Cuvitru,
 Cutaquig, Gamunex-C, Gammagard, Gammaked and Xembify. Yimmugo received FDA approval on June 13, 2024.
-Clinical studies involving Alyglo showed similar efficacy results to other immune globulin products in regard to the primary
+Clinical
+
+Page 97:
+ studies involving Alyglo showed similar efficacy results to other immune globulin products in regard to the primary
 endpoint of acute bacterial infections. No clinical differentiation has been shown between Alyglo and the products already
 on the market.
 Alyglo (immune globulin intravenous, human-stwk) is supplied in single-dose, tamper-evident vial containing the labeled
@@ -643,28 +781,34 @@ amount of functionally active IgG. The components used in the packaging for Alyg
 latex.
 A 
 
-Page 52:
+Page 98:
 prospective, open-label, single-arm, multi-center study was conducted in North America (the United States and Canada)
 [NCT02783482] to determine efficacy, safety and pharmacokinetics of Alyglo (immune globulin intravenous, human-stwk)
 in adults and pediatric subjects with PI. Prior to enrollment, all subjects were receiving stable doses between 300 and 900
 mg/kg of IGIV replacement therapy. Subjects received Alyglo infusion administered every 21 or 28 days, the dose and
-schedule per their prior therapy, for 12 months. Thirty-three adults aged 17 to 70 years were enrolled and received doses
+schedule per their prior 
+
+Page 99:
+therapy, for 12 months. Thirty-three adults aged 17 to 70 years were enrolled and received doses
 ranging from 319 to 817 mg/kg. Eighteen (54.5%) subjects were female, and 15 (45.5%) subjects were male; 32 (97.0%)
 were White and 1 (3.0%) was other. The primary efficacy analysis was annualized rate of acute serious bacterial
 infections (SBIs), defined as bacterial pneumonia, bacteremia/sepsis, bacterial meningitis, visceral abscess, and
 osteomyelitis/septic arthritis per subject per year. Secondar
 
-Page 53:
+Page 100:
 y analyses were annual rate or days of other infections,
 antibiotic use, days out of work/school/day care or unable to perform normal activities due to infection, and days of
 hospitalization due to infection. During the 12-month study period, the acute SBI rate was 0.03 with an upper one-sided
 99% confidence limit: 0.31, which met the predefined success rate of less than one acute SBI per subject per year. One
 adult subject experienced an acute SBI, bacterial pneumonia.
-Alyglo is contraindicated in patients who have a history of anaphylactic or severe systemic reaction to the administration
+Alyglo is contraindicated
+
+Page 101:
+ in patients who have a history of anaphylactic or severe systemic reaction to the administration
 of human immune globulin and in IgA-deficient patients with antibodies to IgA and a history of hypersensitivity due to trace
 amounts of IgA contained in the finished product. Alyglo has warnings and precautions for:
 
-Page 54:
+Page 102:
 • Hypersensitivity: Alyglo contains trace amounts of IgA (≤ 100 mcg/mL). Patients with known antibodies to IgA may
 have a greater risk of developing potentially severe hypersensitivity and anaphylactic reactions. Alyglo is
 contraindicated in IgA-deficient patients with antibodies against IgA or a history of hypersensitivity reaction.
@@ -673,7 +817,10 @@ contraindicated in IgA-deficient patients with antibodies against IgA or a histo
 • Hyperproteinemia, Increase Serum Viscosity, and Hyponatremia
 • Aseptic Meningitis Syndrome
 • Hemolysis
-• Transfusion-Related Acute Lung Injury (TRALI)
+• Transfusion-Related A
+
+Page 103:
+cute Lung Injury (TRALI)
 • Transmissible Infectious Agents
 The most common adverse reactions, observed in ≥ 5% of study subjects, were headache, nausea/vomiting, fatigue,
 nasal/sinus congestion, rash, arthralgia, diarrhea, muscle pain/aches, infusion site pain/swelling, abdominal
@@ -681,13 +828,16 @@ pain/discomfort, cough, and dizziness.
 Twenty-eight subjects (85%) experienced a total of 145 temporally associated adverse reactions (adverse events that
 occurred during or within 72 hours after the end of an infusion)
 
-Page 55:
+Page 104:
  during the study. The temporally associated ARs were
 headache (13 subjects, 39%), nausea/vomiting (11 subjects, 33%), fatigue (6 subjects, 18%), nasal/sinus congestion (5
 subjects, 15%), rash (4 subjects, 12%), arthralgia, diarrhea (3 subjects, 9% each), muscle pain/aches, Infusion site
 pain/swelling, abdominal pain/discomfort, cough, dizziness (2 subjects, 6% each). There were no deaths and no adverse
 reactions leading to withdrawal from the study.
-A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
+A Clinical Review including Clinical Informat
+
+Page 105:
+ion, Efficacy Evidence, Safety Evidence, Other Considerations and a
 Financial Review Based on Cost Analysis were presented.
 Clinical Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (32 approvals). None were opposed.
@@ -695,21 +845,24 @@ Financial Discussion: No comments or questions. The committee unanimously voted 
 presented (35 approvals). None were opposed.
 Outcome: Alyglo is a medical benefit. Alyglo will be added to
 
-Page 56:
+Page 106:
  the medical benefit cost share list when processed on the
 medical benefit. If processed at a specialty pharmacy, Alyglo will process at the Specialty tier or the Brand Non-preferred
 tier for members with a three-tier benefit. Alyglo will be added to the Medical Benefit Policy 4.0. For commercial members
 Alyglo will also apply to Site of Care policy, MBP 181.0.
 MBP 4.0 Intravenous Immune Globulin
 DESCRIPTION:
-Immune Serum Globulins are used to provide passive immunity or to alter the immune response by increasing the
+Immune Serum Globulins are used to provide passive immunity or to alter the immune resp
+
+Page 107:
+onse by increasing the
 recipients’ antibody titer and antigen-antibody reaction potential. IgG antibodies help to prevent or modify certain
 infectious diseases in susceptible individuals. Five major classes of immunoglobulin proteins exist in human serum and
 other body fluids (IgA, IgD, IgE, IgG, and IgM). Immune globulin is an antibody-containing solution obtained from the
 pooled plasma of pre-screened, presumably healthy blood donors. Throughout the policy, the term “intravenous immune
 globuli
 
-Page 57:
+Page 108:
 n” and “IVIG” is intended to refer to all immune globulin injections, including intravenous, intramuscular and
 subcutaneous administrations.
 CRITERIA FOR USE: Requires Prior Authorization by Medical Director or Designee
@@ -726,7 +879,7 @@ Gammagard Liquid
 Gammagard S/D
 Gammaked
 
-Page 58:
+Page 109:
 Gammaplex
 Gamunex
 Gamunex-C
@@ -741,7 +894,10 @@ for the following, however not limited to, indications when specified criteria a
 business is reviewed according to Centers for Medicare and Medicaid Services [CMS] Local Coverage
 Determination [LCD]):
 • Primary Humoral Immunodeficiencies, including combined immunodeficiencies
-Congenital Agammaglobulinemia (X-linked agammaglobulinemia, Bruton’s disease)
+C
+
+Page 110:
+ongenital Agammaglobulinemia (X-linked agammaglobulinemia, Bruton’s disease)
 Autosomal recessive agammaglobulinemia
 Common Variable Immunodeficiency (CVID)
 Wiskott-Aldrich Syndrome
@@ -755,14 +911,17 @@ NEMO deficiency
 WHIM (warts, hypogammaglobulinemia, immunodeficiency, and myelokathexis) syndrome
 X-linked lymphoproli
 
-Page 59:
+Page 111:
 ferative disease (in patients with hypogammaglobulinemia or dysgammaglobulinemia and
 infections)
 Hypogammaglobulinemia provided the appropriate work up is performed to determine extent (ex. flow cytometry
 and anamnestic response to recall antigens)
 Patients with primary immunodeficiencies must meet the following criteria:
 1. Medical record documentation/laboratory results of immunoglobulin deficiency; AND
-2. Medical record documentation of an inability to amount an adequate immunologic response to inciting
+2. Medical record documentation of an inability to amount an adequate immunologic response 
+
+Page 112:
+to inciting
 antigens; AND
 3. Medical record documentation of persistent and severe infections
 • Idiopathic Thrombocytopenia Purpura (ITP)
@@ -774,7 +933,7 @@ corticosteroid therapy
 OR
 • As a preo
 
-Page 60:
+Page 113:
 perative treatment prior to major invasive surgical procedures; AND
 • IVIG be used with corticosteroids when a more rapid increase in platelet count is required
 OR
@@ -783,9 +942,12 @@ OR
 corticosteroid therapy
 2. Chronic ITP when one of the following criteria are met:
 • Duration of Immune Thrombocytopenia (ITP) greater than 12 months; AND
-• No concurrent illness or disease explaining thrombocytopenia; AND
+• No concurrent illn
 
-Page 61:
+Page 114:
+ess or disease explaining thrombocytopenia; AND
+
+Page 115:
 • Medical documentation of prior treatment with corticosteroids (ex, prednisone 2 mg/kg/day for ≤ 6 weeks (for
 adults) or 4 mg/kg/day for ≤ 7 days (for children)); AND a splenectomy, if over 12 months have elapsed from
 date of initial diagnosis;
@@ -795,7 +957,10 @@ and a platelet count of less than 30,000/mm3;
 OR
 • A platelet count of less than 20,000/mm3;
 OR
-• As a preoperative treatment prior to major invasive surgical procedures
+• As a preoperative treatment prior to major i
+
+Page 116:
+nvasive surgical procedures
 3. ITP in pregnancy with medical documentation of the following:
 • One of the following:
 Active bleeding and a platelet count of less than 30,000/mm3; or documented history of significant
@@ -808,7 +973,7 @@ o
 AND
 • A contraindication to, intolerance to or therapeutic failure on corticosteroid therapy OR a
 
-Page 62:
+Page 117:
  more rapid increase
 in platelets is necessary, as determined by the prescriber*
 *Note: initial response to corticosteroids usually occurs within 4-14 days and reaches a peak response within 1-4
@@ -817,6 +982,9 @@ weeks. Initial response to IVIG usually occurs within 1-3 days and reaches a pea
 a. H-pylori-associated
 i. Eradication of H-pylori in patients testing positive
 • Acquired Hypogammaglobulinemia Secondary to Chronic B-cell Lymphocytic Leukemia or Multiple Myeloma
+
+Page 118:
+
 The following criteria must be met:
 1. IgG less than 500 mg/dl; AND
 2. a documented history of repeated bacterial infection two times in one year or a severe bacterial infection within
@@ -829,7 +997,7 @@ occurring 2-14 days post blood product transfusion.
 The following criteria must be met:
 1. Documentation 
 
-Page 63:
+Page 119:
 of a diagnosis of Kawasaki disease;
 AND
 2. Treatment with IVIG is begun within 10 days of the onset of fever; OR
@@ -838,7 +1006,10 @@ manifested by elevation of ESR or CRP (CRP>3.0mg/dL) together with either persis
 explanation or coronary artery aneurysms.
 • Pediatric HIV infection – Bacterial infection prevention
 The following criteria must be met:
-1. Indicated in HIV positive children with humoral immunodeficiency; AND
+1. Indicated in HIV positive children
+
+Page 120:
+ with humoral immunodeficiency; AND
 2. Entry CD4+ lymphocyte count of 200/mm3 or greater; AND
 3. Hypogammaglobulinemia AND one or more of the following:
 4. Recurrent serious bacterial infections; OR
@@ -847,12 +1018,12 @@ The following criteria must be met:
 7. There is a documented bronchiectasis that has not adequately responded to antimicrobial and pulmonary therapy.
 • Bone Marrow Transplantation (for lines of business not covered by the transplant vendor only
 
-Page 64:
+Page 121:
 )
 The following criteria must be met:
 1. The transplant recipient is within the first 100 days after transplant from a matched unrelated donor; OR
 
-Page 65:
+Page 122:
 2. Documentation of treatment of Graft vs. Host Disease in a transplant recipient receiving allogenic matched bone
 marrow transplant with chronic repeated infections or hypogammaglobulinemia (IgG levels less than 400 mg/dL);
 OR
@@ -861,7 +1032,10 @@ repeated infections.
 • Myasthenia Gravis (Acute use)
 The following criteria must be met:
 1. Must be prescribed by a neurologist; AND
-Medical documentation of one of the following indications:
+Medical documentation of one of the
+
+Page 123:
+ following indications:
 2. Diagnosis of acute myasthenic crisis with decompensation; OR
 3. Use during postoperative period following a thymectomy for acute exacerbations; OR
 4. Use prior to planned thymectomy; OR
@@ -869,7 +1043,7 @@ Medical documentation of one of the following indications:
 to start other immunosuppressive treatments or corticosteroids.
 IVIG for any of the above acute indications will be approved for one course of treatment. One course of treatme
 
-Page 66:
+Page 124:
 nt will be
 limited to 5 days of IVIG therapy.
 • Refractory Chronic Debilitating Myasthenia Gravis
@@ -877,7 +1051,10 @@ limited to 5 days of IVIG therapy.
 2. Prescribed by or in consultation with a neuromuscular specialist; AND
 3. Medical record documentation of therapeutic failure on, intolerance to, or contraindication to at least one
 corticosteroid; AND
-4. Medical record documentation of therapeutic failure on, intolerance to, or contraindication to at least one
+4. Medical record documentation of therapeutic failure on, intolerance to, or contraindication to at least o
+
+Page 125:
+ne
 cholinesterase inhibitor; AND
 5. Medical record documentation of therapeutic failure on, intolerance to, or contraindication to at least one non-
 steroidal immunosuppressive therapy
@@ -888,7 +1065,7 @@ All of the following criteria must be met:
 3. Must be prescribed by a neurologist; AND
 4. Documented evidence that the condition is refractory to both of the fol
 
-Page 67:
+Page 126:
 lowing therapies
 A) First line therapy: corticosteroids (at least 4 months of therapy)
 B) Second line therapy: at least two immunosuppressants (e.g. cyclosporine, azathioprine, methotrexate,
@@ -897,7 +1074,10 @@ cyclophosphamide)
 The following criteria must be met:
 1. A diagnosis of either acute or chronic Guillain-Barre syndrome; AND
 2. Must be prescribed by a neurologist; AND
-3. IVIG will be initiated within 2 weeks but no longer than 4 weeks of neuropathic symptom onset if acute onset;
+3. IVIG will be initiated within 2 weeks but no longer than 4 weeks of neuropathic symptom ons
+
+Page 127:
+et if acute onset;
 AND
 4. No plan for combining IVIG with plasma exchange or sequential plasma exchange and IVIG.
 • Chronic Inflammatory Demyelinating Polyneuropathy
@@ -908,7 +1088,7 @@ months or longer; AND
 3. Physician provided documentation of EMG abnormalities consistent with the diagnosis of Chronic Inflammatory
 D
 
-Page 68:
+Page 128:
 emyelinating Polyneuropathy with the presence of at least ONE of the following:
 a. Motor distal latency prolongation > 50% above ULN in two nerves (excluding median neuropathy at the
 wrist from carpal tunnel syndrome), OR
@@ -916,13 +1096,16 @@ b. Reduction of motor conduction velocity > 30% below LLN in two nerves, OR
 c. Prolongation of F-wave latency > 30% above ULN in two nerves (> 50% if amplitude of distal negative
 peak CMAP <80% of LLN values), OR
 
-Page 69:
+Page 129:
 d. Absence of F-waves in two nerves if these nerves have distal negative peak CMAP amplitudes > 20% of
 LLN + > 1 other demyelinating parameter in > 1 other nerve, OR
 e. Partial motor conduction block: > 50% amplitude reduction of the proximal negative peak CMAP relative
 to distal, if distal negative peak CMAP > 20% of LLN, in two nerves, or in one nerve + >1 other
 demyelinating parameter in > 1 other nerve, OR
-f. Abnormal temporal dispersion (>30% duration increase between the proximal and distal negative peak
+f. Abnormal temporal dispersion (>30% duration increase between the proximal and dista
+
+Page 130:
+l negative peak
 CMAP) in > 2 nerves, OR
 g. Distal CMAP duration (interval between onset of the first negative peak and return to baseline of the last
 negative peak) increase in > 1 nerve (median > 6.6 ms, ulnar > 6.7 ms, peroneal > 7.6 ms, tibial > 8.8 ms)
@@ -931,7 +1114,7 @@ Improvement should be apparent after 3 months of treatment; otherwise, requests 
 Medical Director review.
 • Fetal or Neonatal Alloimmune Thrombocytopenia 
 
-Page 70:
+Page 131:
 (FNAIT)
 The following criteria must be met:
 1. History of previous fetus or newborn with serologically confirmed Fetal or Neonatal Alloimmune
@@ -939,7 +1122,10 @@ Thrombocytopenia (FNAIT) with thrombocytopenia; OR
 2. History of previous fetus or newborn with serologically confirmed Fetal or Neonatal Alloimmune
 Thrombocytopenia (FNAIT) with intracranial hemorrhage; OR
 3. History of previous fetus or newborn with thrombocytopenia or intracranial hemorrhage of unknown etiology AND
-documentation a complete diagnostic workup was performed*
+documentation a complete diagnostic wo
+
+Page 132:
+rkup was performed*
 *Note, a complete diagnostic workup, per ACOG guidelines may include:
 • Maternal anti-HPA antibody screening and cross matching with paternal platelets at 12, 24 and 32 weeks OR
 • Paternal incompatibility for human platelet antigen OR
@@ -950,7 +1136,7 @@ The following criteria must be met:
 1. Must be prescribed by a neurologist; AND
 2. Medical doc
 
-Page 71:
+Page 133:
 umentation of progressive symptoms for a minimum of 1 month; AND
 3. Asymmetric limb weakness in at least two nerves; AND
 4. No objective sensory abnormalities except for minor vibration sense abnormalities in the lower limb; AND
@@ -960,7 +1146,10 @@ electrophysiologic study as evidenced by:
 OR
 • Probable Conduction block in at least two nerves
 OR
-• Probable Conduction block in at least one nerve AND at least two (2) of the following:
+• Probable Conduction block i
+
+Page 134:
+n at least one nerve AND at least two (2) of the following:
 i. Elevated IgM anti-ganglioside GM1 antibodies
 ii. Increased CSF protein
 iii. increased T2-signal intensity on MRI of brachial plexus with diffuse nerve swelling
@@ -970,7 +1159,7 @@ The following criteria must be met:
 1. Medical record documentation of CMV pneumonia
 2. Medical record documentation that IVIG i
 
-Page 72:
+Page 135:
 s being used in combination with or patient has a contraindication to
 ganciclovir
 • Toxic shock syndrome (III/C)
@@ -981,7 +1170,7 @@ antibiotic therapy; AND
 2. Caused by staphylococcal organisms
 OR
 
-Page 73:
+Page 136:
 1. Medical record documentation of Streptococcal Toxic Shock Syndrome (TSS)
 • Graves’ Ophthalmopathy (Ib/A)
 The following criteria must be met:
@@ -990,6 +1179,9 @@ The following criteria must be met:
 2. Prescription must be written by an ophthalmologist
 • Autoimmune Mucocutaneous Blistering Diseases (pemphigus, pemphigoid, pemphigus vulgaris, pemphigus
 foliaceus, Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (III/C)
+
+Page 137:
+
 The following criteria must be met:
 1. Diagnosis must be substantiated by biopsy; AND
 2. Failure or contraindication to two or more conventional therapies (corticosteroids, azathioprine,
@@ -1000,7 +1192,7 @@ therapy. IVIG would be given in conjunction with conventional therapy and only u
 therapy could take effect
 Note: IVIG for the treatment 
 
-Page 74:
+Page 138:
 of autoimmune mucocutaneous blistering disease must be used only for short-term therapy
 and not as maintenance therapy.
 • Solid Organ Transplant
@@ -1011,7 +1203,10 @@ sensitized patients or receiving ABO incompatible organ
 OR
 Treatment of acute humoral rejection
 • Medical record documentation of antibody-mediated rejection
-• Rasmussen’s Encephalitis (IIb/B)
+• Rasmussen’s
+
+Page 139:
+ Encephalitis (IIb/B)
 The following criteria must be met:
 1. Medical record documentation that short-term amelioration of encephalitis is needed prior to definitive surgical
 therapy
@@ -1021,7 +1216,7 @@ The following criteria must be met:
 1. Prescription written by a neurologist
 2. Medical record documentation of failure on, intolerance to, or contraindication to all standard th
 
-Page 75:
+Page 140:
 erapies
 (muscle relaxants, benzodiazepines, and gabapentin-related medications)
 • Eaton-Lambert myasthenic syndrome (Ib/A)
@@ -1030,7 +1225,10 @@ All of the following criteria must be met:
 2. Medical record documentation of failure on, contraindication to, or intolerance to other treatments including
 corticosteroids or other immunosuppressants, cholinesterase inhibitors, and 3,4-diaminopyridine.
 • Multiple Sclerosis (relapsing/remitting type)
-All of the following criteria must be met:
+All of the following criteria must 
+
+Page 141:
+be met:
 1. Must be prescribed by a neurologist; AND
 2. Medical record documentation of RRMS; AND
 3. Medical record documentation of current MS exacerbation; AND
@@ -1039,11 +1237,11 @@ high dose corticosteroids
 Improvement should be apparent after 2 courses of monthly treatment, otherwise, requests for further treatment will
 require Medical Director review of supporting documentation of expected out
 
-Page 76:
+Page 142:
 come.
 Note: IVIG is considered investigational for primary or progressive multiple sclerosis and will not be covered.
 
-Page 77:
+Page 143:
 • Warm Antibody Autoimmune hemolytic anemia (III/D)
 The following criteria must be met:
 1. Refractory to or contraindicated to corticosteroids and immunosuppressive agents
@@ -1052,7 +1250,10 @@ The following criteria must be met:
 All of the following criteria must be met
 1. Prescribed by or in consultation with an infectious disease specialist, immunologist, hematologist, or transplant
 specialist
-2. Medical record documentation of chronic immunodeficient condition (HIV, solid organ transplant, etc.)
+2. Medical record documentation of chronic immunodeficient condition (HIV, solid organ transplant, etc
+
+Page 144:
+.)
 3. Medical record documentation of chronic parvovirus B19 infection
 4. Medical record documentation of severe anemia as defined by hemoglobin < 8 g/dL
 • Catastrophic Antiphospholipid Syndrome (CAPS) (III/C)
@@ -1062,14 +1263,17 @@ involvement of two or more organs, systems, and/or tissues) AND
 2. Development of manifestations simultaneously or in less than one week AND
 3. C
 
-Page 78:
+Page 145:
 onfirmation by histopathology of small vessel occlusion in at least one organ or tissue AND
 4. Laboratory confirmation of the presence of antiphospholipid antibodies (lupus anticoagulant, anticardiolipin
 antibodies, and/or anti-beta2-glycoprotein I antibodies) AND
 5. Medical record documentation Intravenous Immunoglobulin (IVIG) will be used in combination with
 conventional therapies (eg. anticoagulation and corticosteroids).
 OR
-1. Documentation of patient with antiphospholipid syndrome (APS) with multiorgan failure (evidence of
+1. Documentation of patient with antiphospholipid syndrome (APS) wi
+
+Page 146:
+th multiorgan failure (evidence of
 involvement of three or more organs, systems, and/or tissues AND
 2. Development of manifestations simultaneously or in less than one week AND
 3. Laboratory confirmation of the presence of antiphospholipid antibodies (lupus anticoagulant, anticardiolipin
@@ -1077,7 +1281,7 @@ antibodies, and/or anti-beta2-glycoprotein I antibodies) AND
 4. Medical record documentation Intravenous Immunoglobulin (IVIG) will be used in combination with
 conventional therapies (eg. anticoagulation and cor
 
-Page 79:
+Page 147:
 ticosteroids).
 OR
 1. Documentation of patient with antiphospholipid syndrome (APS) with multiorgan failure (evidence of
@@ -1085,20 +1289,26 @@ involvement of three or more organs, systems, and/or tissues AND
 2. Confirmation by histopathology of small vessel occlusion in at least one organ or tissue AND
 3. Laboratory confirmation of the presence of antiphospholipid antibodies (lupus anticoagulant, anticardiolipin
 antibodies, and/or anti-beta2-glycoprotein I antibodies) AND
-4. Development of a third event in more than a week but less than a month, despite anticoagulation AND
+4. Development of a third event in more than a
+
+Page 148:
+ week but less than a month, despite anticoagulation AND
 5. Medical record documentation Intravenous Immunoglobulin (IVIG) will be used in combination with
 conventional therapies (eg. anticoagulation and corticosteroids).
 AUTHORIZATION DURATION: Each treatment period will be defined as 6 months or less, unless otherwise stated (e.g.
 Chronic Inflammatory Demyelinating Polyneuropathy, Multiple Sclerosis, and Multifocal Motor Neuropathy). Re-review will
 occur every 6 months or less, dependent on th
 
-Page 80:
+Page 149:
 e indication. Documentation of clinical response to therapy is required after
 initiation of therapy. If initial benefit is seen and continued therapy is deemed necessary, documentation of objective
 monitoring must be seen. Clinical improvement is superior to laboratory monitoring. IVIG will no longer be covered if there
 is a medical record documentation of disease progression.
 LIMITATIONS: When approved, IVIG will be administered in a setting determined by the Plan, in consultation with
-the requesting physician to be the most clinically appropriate and/or medically necessary.
+the requ
+
+Page 150:
+esting physician to be the most clinically appropriate and/or medically necessary.
 Initial Dosing: Dosing should be calculated using adjusted body weight (ABW) if one or more of the following criteria are
 met:
 • Patient’s body mass index (BMI) is 30 kg/m2 or more
@@ -1107,7 +1317,7 @@ Dosing formulas:
 • BMI = weight in kg / height in meters2
 • IBW (kg) for males = 50 + [2.3 (height in inches – 60)]
 
-Page 81:
+Page 151:
 • IBW (kg) for females = 45.5 + [2.3 * (height in inches – 60)]
 • ABW = IBW + 0.5 (actual body weight – IBW)
 Geisinger Health Plan considers some conditions other than those listed under Indications to be Experimental,
@@ -1119,7 +1329,10 @@ Investigational or Unproven and NOT Medically Necessary. These conditions includ
 • chronic fatigue syndrome
 • chronic mucocutaneous candidiasis (CMCC)
 • complex regional pain syndrome (CRPS)
-• epilepsy
+• epi
+
+Page 152:
+lepsy
 • inclusion body myositis
 • Lyme disease
 • neuromyelitis optica (NMO) (Devic’s Disease)
@@ -1133,73 +1346,88 @@ Additional evidence of the criteria used to make this decision can be found in t
 VOYDEYA (danicopan)
 Review: Voydeya is a complement factor D inhibitor indicated as add-on 
 
-Page 82:
+Page 153:
 therapy to ravulizumab or eculizumab for the
 treatment of extravascular hemolysis (EVH) in adults with paroxysmal nocturnal hemoglobinuria (PNH). Voydeya has not
 been shown to be effective as monotherapy and should only be prescribed as add-on to ravulizumab or eculizumab.
 Voydeya is the second oral treatment option for patients with PNH. Voydeya reversibly binds complement Factor D and
-selectively inhibits the alternative complement pathway. In PNH, it acts proximally in the alternative pathway of the
+selectively inhibits the alternative complement pathway. In PNH, it acts proximally in the alternative pathway
+
+Page 154:
+ of the
 complement cascade to control preferentially C3 fragment-mediated EVH when co-administered with ravulizumab or
 eculizumab to maintain control over MAC-mediated IVH.
 At least 2 weeks prior to initiation of Voydeya, patients should be vaccinated against encapsulated bacteria, including
 Neisseria meningitidis (serogroups A, C, W, Y, and B) and Streptococcus pneumoniae according to current ACIP
 recommendations. The recommended starting dose of Voydeya is 150 mg orally three times daily. Voyd
 
-Page 83:
+Page 155:
 eya can be taken
 with or without food. The dose can be increased to 200 mg three times daily if the patient’s hemoglobin has not increased
 by greater than 2 g/dL after 4 weeks of therapy, if the patient required transfusion during the previous 4 weeks, or to
 achieve an appropriate Hgb response based on clinical judgement. Voydeya comes in 50 mg and 100 mg tablets and is
 supplied as bottles of 100 mg tablets and as a 150 mg therapy pack which contains 90 each of 50 mg and 100 mg
 tablets.
-The efficacy of Voydeya was evaluated in a randomized, double-blind, placebo-controlled study in adults with PNH and
+The effi
+
+Page 156:
+cacy of Voydeya was evaluated in a randomized, double-blind, placebo-controlled study in adults with PNH and
 clinically significant EVH, defined as anemia (hemoglobin [Hgb] ≤ 9.5 g/dL) with absolute reticulocyte count ≥ 120 x 109/L
 with or without transfusion support. The study enrolled patients with PNH who had been treated with a stable dose of
 ravulizumab or eculizumab for at least the previous 6 months.
 Patients were randomized 2:1 to receive Voydeya or placebo for 12 weeks in addition to ba
 
-Page 84:
+Page 157:
 ckground ravulizumab or
 eculizumab treatment. After week 12, all patients received Voydeya in combination with background ravulizumab or
 eculizumab treatment up to week 24, after which they could enter a long-term extension period and continue to receive
 Voydeya with background ravulizumab or eculizumab.
 Efficacy was based on the change in Hgb level from baseline to Week 12. Other efficacy measures included proportion of
-patients with Hgb increase of 2 g/dL at week 12 in the absence of transfusions, the proportion of patients with transfusion
+patients with Hgb increase of 2 g/dL at week 12 in the absence of transfusi
+
+Page 158:
+ons, the proportion of patients with transfusion
 avoidance through Week 12, the change from baseline in Functional Assessment of Chronic Illness Therapy (FACIT)-
 Fatigue scores at Week 12, and change from baseline in absolute reticulocyte count at Week 12. Transfusion avoidance
 was considered achieved by patients who did not receive a transfusion and did not meet the protocol specified guidelines
 for transfusion from baseline through Week 12. Baseline characteristics were generally balanced betw
 
-Page 85:
+Page 159:
 een treatment
 groups.
 
-Page 86:
+Page 160:
 Voydeya efficacy was established on the basis of superiority compared to placebo in all efficacy measures with
 statistically significant results.
 Voydeya has a black box warning for the risk of serious infections caused by encapsulated bacteria, including Neisseria
 meningitidis, Streptococcus pneumoniae, or Haemophilus influenzae type B. Voydeya is contraindicated for initiation in
-patients with unresolved serious infection caused by encapsulated bacteria. Patients receiving Voydeya are at increased
+patients with unresolved serious infection caused by encapsulated bacteria. Patients receiving Voydeya are at incre
+
+Page 161:
+ased
 risk of these infections and should be vaccinated against them prior to initiation and monitored throughout treatment for
 signs and symptoms of serious infections. Based on the risk of these infections, Voydeya is available through a restricted
 Voydeya REMS program.
 Other warnings include risk of hepatic enzyme elevations, PNH manifestations after Voydeya discontinuation, increases in
 total cholesterol and LDL-cholesterol. During clinical trials, the safety of Voydeya was evaluated in 86 ad
 
-Page 87:
+Page 162:
 ults with PNH.
 Serious adverse reactions were reported in 5% of patients who received Voydeya and included pancreatitis, cholecystitis,
 and increased blood bilirubin. No specific serious adverse reaction was reported in more than 1 patient treated with
 Voydeya. Permanent discontinuation occurred in 5% of patients and dosage reduction occurred in 1 patients treated with
 Voydeya. The most common adverse reaction reported in patients was headache. Other adverse reactions that occurred
-in more than 5% of patients treated with Voydeya included vomiting, pyrexia, increased alanine aminotransferase,
+in more than 
+
+Page 163:
+5% of patients treated with Voydeya included vomiting, pyrexia, increased alanine aminotransferase,
 hypertension, and pain in extremity. Clinically relevant adverse reactions occurring in less than 5% of patients include
 increased serum triglycerides.
 A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
 Financial Review Based on Cost Analysis were presented.
 Clinical Discussion: No comments or questions. The committee unanimously voted 
 
-Page 88:
+Page 164:
 to accept the recommendations as
 presented (34 approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
@@ -1207,14 +1435,17 @@ presented (36 approvals). None were opposed.
 Outcome: Voydeya is a pharmacy benefit and will not be added to the Commercial, Marketplace, and GHP Kids
 pharmacy formularies. The following prior authorization criteria will apply.
 Medical record documentation of age greater than or equal to 18 years AND
-• Medical record documentation of age greater than or equal to 18 years AND
+• Medic
+
+Page 165:
+al record documentation of age greater than or equal to 18 years AND
 • Medical record documentation of a diagnosis of paroxysmal nocturnal hemoglobinuria (PNH) AND
 • Medical record documentation that Voydeya is prescribed by a hematologist AND
 • Medical record documentation that member has received vaccinations against encapsulated bacteria, including
 Streptococcus pneumoniae and Neisseria meningitidis AND
 • Medical record documentation that member continues to experience clinically significant 
 
-Page 89:
+Page 166:
 extravascular hemolysis
 (EVH)* despite at least 6 months of treatment with eculizumab or ravulizumab AND
 • Medical record documentation that member will continue eculizumab or ravulizumab treatment in combination
@@ -1223,7 +1454,10 @@ with Voydeya
 reticulocyte count ≥ 120 x 109/L with or without transfusion support.
 QUANTITY LIMIT:
 • Voydeya 100 mg Tablets: 6 tablets per day
-• Voydeya 150 mg Therapy Pack: 6 tablets per day
+• Voydeya 150 mg Therapy
+
+Page 167:
+ Pack: 6 tablets per day
 AUTHORIZATION DURATION: Initial approval will be for 6 months. Subsequent authorizations will be for 6 months
 and will require:
 • Medical record documentation that member continues to receive Voydeya in combination with ravulizumab or
@@ -1232,30 +1466,36 @@ eculizumab AND
 not limited to increased hemoglobin levels, reduction in transfusions, improvement in hemolysis, decreases in
 LDH, and
 
-Page 90:
+Page 168:
  increased reticulocyte count
 GPI LEVEL: GPI-12
 RPH SIGNOFF REQUIRED: Yes
 
-Page 91:
+Page 169:
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 SIMLANDI (adalimumab-ryvk)
 Review: Simlandi is an interchangeable Humira biosimilar indicated for adult rheumatoid arthritis (RA), juvenile idiopathic
 arthritis (JIA) in patients 2 years of age and older, adult psoriatic arthritis (PsA), adult ankylosing spondylitis (AS), Crohn’s
-disease (CD) in patients 6 years and older, adult ulcerative colitis (UC), adult plaque psoriasis (Ps), adult hidradenitis
+disease (CD) in patients 6 years and older, adult ulcerative colitis (UC), adult plaque psoriasi
+
+Page 170:
+s (Ps), adult hidradenitis
 suppurativa (HS), and adult uveitis (UV).
 Simlandi, similar to the other Humira biosimilars, shares all the same indications as Humira, with the exception of pediatric
 UC, adolescent HS, pediatric UV (see chart below). These indications are missing from all biosimilar products due to the
 Orphan Drug Exclusivity patents that have not expired. Pediatric UV is protected until September 28, 2025, adolescent HS
 until October 16, 2025 and pediatric UC until February 24 2028.
 
-Page 92:
+Page 171:
 
 Simlandi is the first high-concentration, citrate free, interchangeable biosimilar to Humira. Hadlima, Hyrimoz/adalimumab
 adaz [unbranded Hyrimoz], Yuflyma, Amjevita, Cyltezo, are available in high concentrations. Yusimry has a high
 concentration formulation in development. Abrilada and Cyltezo (not high concentration) also have interchangeable
 status. All biosimilars are available as citrate free.
-The delay in approval is due to a series of complete response letters issues to Alvotech by the FDA over manufacturing
+The delay in approval is due to a series of complete response letters issues to Alvotech by the F
+
+Page 172:
+DA over manufacturing
 concerns at Alvotech’s manufacturing plant in Reykjavik, Iceland. A follow-up inspection was completed by the FDA in
 January 2024 and Alvotech reported one observation that needed to be addressed.
 A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
@@ -1263,20 +1503,23 @@ Financial Review Based on Cost Analysis were presented.
 Clinical Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 
 
-Page 93:
+Page 173:
 presented (32 approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (35 approvals). None were opposed.
 Outcome: Simlandi will be a pharmacy benefit. It is recommended to not add Simlandi to formulary. Simlandi will require
 a prior authorization and will be added to the non-preferred adalimumab biosimilars and Humira policy 788.1 with the
 following highlighted changes:
-For adult rheumatoid arthritis, polyarticular juvenile idiopathic arthritis or juvenile rheumatoid arthritis, psoriatic
+For adult rheumatoid arthriti
+
+Page 174:
+s, polyarticular juvenile idiopathic arthritis or juvenile rheumatoid arthritis, psoriatic
 arthritis, ankylosing spondylitis, Crohn’s disease, plaque psoriasis, adult ulcerative colitis, adult hidradenitis
 suppurativa, adult non-infectious intermediate, posterior, and panuveitis
 An exception for coverage of Abrilada, Cyltezo, Adalimumab-adbm (unbranded Cyltezo), Hulio, Humira, Hyrimoz,
 Adalimumab-adaz (unbranded Hyrimoz), Idacio, Yuflyma, or Simlandi may be made for members who meet the followin
 
-Page 94:
+Page 175:
 g
 criteria:
 • Medical record documentation of therapeutic failure on, intolerance to, or contraindication to Adalimumab-fkjp
@@ -1284,7 +1527,10 @@ AND Hadlima AND Yusimry
 NOTE: HUMIRA MAINTAINS BRAND EXCLUSIVITY FOR PEDIATRIC UVEITIS, PEDIATRIC ULCERATIVE COLITIS,
 AND ADOLESCENT HIDRADENITIS SUPPURATIVA
 AUTHORIZATION DURATION: Approval will be given for a duration of twelve (12) months. For continuation of coverage,
-medical record documentation of clinical improvement or lack of progression in signs and symptoms of treated condition
+medical record documentation of clinical improvement or lack of progression in signs and symptoms of t
+
+Page 176:
+reated condition
 on adalimumab therapy is required.
 MEDISPAN AUTHORIZATION LEVEL: NDC-9
 QUANTITY LIMITS: See adalimumab quantity limit reference document.
@@ -1294,16 +1540,19 @@ meet all the following criteria:
 • Medical record documentation of a diagnosis of moderate to severe ulcerative colitis AND
 • Medical record documentation that adalimumab is prescribed by a gastr
 
-Page 95:
+Page 177:
 oenterologist AND
 
-Page 96:
+Page 178:
 • Medical record documentation of age greater than or equal to 5 years and less than 18 years AND
 • Medical record documentation of therapeutic failure on, intolerance to, at least one conventional therapy:
 corticosteroids, aminosalicylates, or immunomodulators (azathioprine or 6-mercaptopurine (6-MP)) AND
 • Medical record documentation that Humira is not being used concurrently with a tumor necrosis factor (TNF)
 blocker or other biologic agent
-An exception for coverage of WEEKLY administration of Humira may be made for members who meet all the following
+An exception for coverage of WEEKLY administration 
+
+Page 179:
+of Humira may be made for members who meet all the following
 criteria:
 • Medical record documentation of a diagnosis of moderate to severe ulcerative colitis AND
 • Medical record documentation that adalimumab is prescribed by a gastroenterologist AND
@@ -1311,7 +1560,7 @@ criteria:
 • Medical record documentation of therapeutic failure on, intolerance to, or contraindication to at least one
 conventional therapy: corticosteroids, am
 
-Page 97:
+Page 180:
 inosalicylates, or immunomodulators (e.g., 6-mercaptopurine or
 azathioprine) AND
 • Medical record documentation that Humira is not being used concurrently with a tumor necrosis factor (TNF)
@@ -1320,7 +1569,10 @@ blocker or other biologic agent AND
 based on body weight
 NOTE:
 • For patients with an adequate drug trough, American Gastroenterological Association (AGA) does not
-recommend antibody levels to guide therapy. Patients should be switched to another agent.
+recommend antibody levels to guide t
+
+Page 181:
+herapy. Patients should be switched to another agent.
 • For patients with an inadequate drug trough & undetectable antibodies, a dose increase may be warranted.
 • For patients with an inadequate drug trough & detectable antibodies, a switch to another agent is recommended.
 However, patients with low antibody levels may be considered for a dose increase, in hopes of overcoming
@@ -1328,14 +1580,17 @@ antibody level and achieving response.
 MEDISPAN AUTHORIZATION LEVEL: NDC-9
 QUANTITY LIMIT: See adalimumab quantity limit 
 
-Page 98:
+Page 182:
 reference document.
 Humira for Pediatric Hidradenitis Suppurativa (HS)
 An exception for coverage of Humira may be made for members who meet all the following criteria:
 • Medical record documentation that Humira is prescribed by a dermatologist AND
 • Medical record documentation of age greater than or equal to 12 years and less than 18 years AND
 • Medical record documentation of a diagnosis of moderate to severe hidradenitis suppurativa (HS), defined as
-Stage II or III on the Hurley staging system* AND
+Stage II or III on the Hurley staging syste
+
+Page 183:
+m* AND
 • Medical record documentation of at least 3 abscesses or inflammatory nodules AND
 • Medical record documentation of concomitant use of oral or systemic antibiotics AND
 • Medical record documentation that the member has received counseling on weight management (if overweight)
@@ -1343,7 +1598,7 @@ and smoking cessation (if the member is an active smoker) AND
 • For members 12 to 18 years of age weighing 30 to less than 60 kg: medical record documentation of Humira
 being dosed at a maximum dose of 40 mg every ot
 
-Page 99:
+Page 184:
 her week AND
 • Medical record documentation that Humira is not being used concurrently with a tumor necrosis factor (TNF)
 blocker or other biologic agent
@@ -1352,7 +1607,10 @@ blocker or other biologic agent
 • Stage II: More than one lesion or area, but with limited tunneling.
 • Stage III: Multiple lesions, with more extensive sinus tracts and scarring.
 AUTHORIZATION DURATION: Approval will be given for a duration of twelve (12) months. For continuation of coverage,
-medical record documentation of clinical improvement or lack of progression in signs and symptoms of hidradenitis
+m
+
+Page 185:
+edical record documentation of clinical improvement or lack of progression in signs and symptoms of hidradenitis
 suppurativa on Humira therapy is required.
 MEDISPAN AUTHORIZATION LEVEL: NDC-9
 QUANTITY LIMIT: See adalimumab quantity limit reference document.
@@ -1360,17 +1618,20 @@ Humira for the treatment of Non-Infectious Intermediate, Posterior and Panuveiti
 An exception for coverage of Humira may be made for members who meet all the following criteria:
 • Medical record documentation that Humira is prescribed by an 
 
-Page 100:
+Page 186:
 ophthalmologist or rheumatologist AND
 
-Page 101:
+Page 187:
 • Medical record documentation of age greater than or equal to 2 years and less than or equal to 18 years AND
 • Medical record documentation of a diagnosis of non-infectious intermediate, posterior or panuveitis AND
 • Medical record documentation that Humira is being given in combination with methotrexate OR medical record
 documentation of contraindication to methotrexate AND
 • Medical record documentation that member is receiving appropriate dose of Humira based on weight and age
 AND
-• Medical record documentation that Humira is not being used concurrently with a tumor necrosis factor (TNF)
+• Medical 
+
+Page 188:
+record documentation that Humira is not being used concurrently with a tumor necrosis factor (TNF)
 blocker or other biologic agent
 AUTHORIZATION DURATION: Approval will be given for a duration of twelve (12) months. For continuation of coverage,
 medical record documentation of clinical improvement or lack of progression in signs and symptoms of uveitis on Humira
@@ -1379,13 +1640,16 @@ MEDISPAN AUTHORIZATION LEVEL: NDC-9
 QUANTITY LIMIT: See adalimumab quantity limit reference document.
 Updated Quan
 
-Page 102:
+Page 189:
 tity Limit: It is recommended to add Simlandi to row 3 in the quantity limit reference document.
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 VARIZIG (varicella zoster immune globulin (human))
 Review: Varizig was approved in December 2012 and is a varicella zoster immune globulin (human) indicated for post-
 exposure prophylaxis of varicella in high-risk individuals. High-risk groups include:
-• Immunocompromised children and adults
+• Immunocompromised childre
+
+Page 190:
+n and adults
 • Newborns of mothers with varicella shortly before or after delivery
 • Premature infants
 • Neonates and infants less than one year of age
@@ -1395,25 +1659,31 @@ Varizig is intended to reduce the severity of varicella. Administer Varizig as s
 virus (VZV) exposure, ideally within 96 hours for greatest effectiveness. There is no convincing evidence that Varizig
 reduces the incidence of chickenpox infection after
 
-Page 103:
+Page 191:
  exposure to VZV. There is no convincing evidence that established
 infections with VZV can be modified by Varizig administration. There is no indication for the prophylactic use of Varizig in
 immunodeficient children or adults when there is a history of varicella, unless the patient is undergoing bone marrow
 transplantation.
 Varizig is a solvent/detergent-treated sterile liquid preparation of purified human immune globulin G (IgG) containing
-antibodies to varicella zoster virus (anti-VZV). VZV is the causative agent of chickenpox. Varizig is prepared from plasma
+antibodies to varicella zoster virus (anti-VZV). VZV i
+
+Page 192:
+s the causative agent of chickenpox. Varizig is prepared from plasma
 donated by healthy, screened donors with high titers of antibodies to VZV, which is purified by an anion-exchange column
 chromatography manufacturing method. This donor selection process includes donors with high anti-VZV titers due to
 recent natural infection by VZV, or due to recent zoster infections (shingles).
 The CDC recommends administration of Varizig as soon as possible after exposure to varicella zoster virus and withi
 
-Page 104:
+Page 193:
 n 10
 days. The decision to administer Varizig depends on three factors: 1) whether the patient lacks evidence of immunity to
 varicella, 2) whether the exposure of likely to result in infection, 3) whether the patient is at greater risk for varicella
 complications than the general population. For high-risk patients who have additional exposures to varicella zoster ≥ 3
 weeks after initial Varizig administration, another dose of Varizig should be considered. Patients without evidence of
-immunity to varicella who are at high risk for severe varicella and complications, who have been exposed to varicella or
+immunity to
+
+Page 194:
+ varicella who are at high risk for severe varicella and complications, who have been exposed to varicella or
 herpes zoster, and for whom the varicella vaccine is contraindicated, should receive Varizig. Patient groups
 recommended by the CDC to receive Varizig include the following:
 • Immunocompromised patients without evidence of immunity
@@ -1421,67 +1691,82 @@ recommended by the CDC to receive Varizig include the following:
 before to 2 days after)
 • Hospitalized prematur
 
-Page 105:
+Page 195:
 e infants born at ≥ 28 weeks of gestation whose mothers do not have evidence of immunity
 to varicella
 • Hospitalized premature infants born at < 28 weeks of gestation or who weigh ≤ 1,000 grams at birth, regardless of
 their mothers’ evidence of immunity to varicella
 
-Page 106:
+Page 196:
 • Pregnant women without evidence of immunity
 Dosing of Varizig is based on body weight. Administer a single dose of Varizig intramuscularly. The intramuscular dose
 should be divided and administered in two sites, dependent on the patient size. Do not exceed 3 ml per injection site.
 Varizig is supplied as a sterile solution for intramuscular injection and is available in a single-use vial of 125 international
 units in 1.2 ml.
-Study 1 was a randomized, open-label, multicenter, active controlled trial conducted in 60 pregnant women without
+Study 1 was a randomized, open-label, multicenter, active controlled t
+
+Page 197:
+rial conducted in 60 pregnant women without
 immunity to VZV as confirmed by a latex agglutination test. Patients were stratified based on time from first exposure to
 varicella as follows: one to four days post-exposure and five to 14 days post-exposure. The women were randomized into
 one of three study arms: a single IV dose of 125 IU/10 kg body weight to a maximum dose of 625 IU of Varizig, a single
 IM dose of 125 IU/10 kg body weight to a maximum dose of 625 IU of Varizig, or a single IM dose 
 
-Page 107:
+Page 198:
 of 125 IU/10 kg body
 weight to a maximum dose of 625 IU of VZIG (licensed comparator product). Patients were followed for 42 days.
 Incidence of clinical varicella was similar across all treatment groups with an overall incidence of 33%. However, in a
 subset of 28 patients with more than 24 hours exposure to varicella, the incidence of clinical varicella in the combined
 treatment groups was 64%.
-Study 2 was an open-label, Expanded Access Protocol (EAP) conducted in the United States designed to provide Varizig
+Study 2 was an open-label, Expanded Access Protocol (EAP) conducted in the United States designed to p
+
+Page 199:
+rovide Varizig
 to high-risk individuals who were exposed to VZV. Although the study was not designed to evaluate efficacy, the objective
 of the study was to further access and confirm the safety and efficacy of IM injection of Varizig in the prevention and
 reduction of severity of complications from varicella infections in the indicated high-risk populations. Initially, enrollment
 was limited to allow treatment with Varizig only within 96 hours of exposure, but the protocol was amended to expand
 
-Page 108:
+Page 200:
  the
 treatment window to 10 days post-exposure.
 The incidence of clinical varicella (chickenpox lesions) was compared to predefined historical reference rates. The
 incidence of severe varicella complications, including pneumonia, encephalitis, severe varicella with pox counts greater
 than 100 pox, mortality and all complications was also evaluated. The overall incidence of clinical varicella was evaluated
-in an interim analysis, where 10% (31/311) of high-risk individuals exposed to VZV and treated with Varizig for all
+in an interim analysis, where 10% (31/311) of high-risk individuals exposed to VZV and trea
+
+Page 201:
+ted with Varizig for all
 combined populations, for whom complete or partial efficacy data was available. Clinical varicella was more common after
 prolonged VZV exposure. The final report confirmed the efficacy results in the interim analysis. In addition, a comparison
 of the incidence of varicella based on treatment window revealed that treatment between 5 and 10 days post-exposure
 was no different from treatment within 96 hours.
 Contraindications include history of anaphylactic or severe system
 
-Page 109:
+Page 202:
 ic reactions to human immune globulins and IgA-
 deficient patients with antibodies against IgA and a history of hypersensitivity. Warnings and precautions include the
 following: Thrombotic Events - Thrombotic events may occur during or following treatment with immune globulin products;
 Coagulation Disorders - In patients who have severe thrombocytopenia or any coagulation disorder that would
-contraindicate intramuscular injections, only administer if expected benefits outweigh the potential risks; Hypersensitivity -
+contraindicate intramuscular injections, only administer if expected benefits outweigh the potential risk
+
+Page 203:
+s; Hypersensitivity -
 Severe hypersensitivity reactions may occur following Varizig administration. Administer in a setting equipped to treat a
 hypersensitivity reaction; and Transmissible Infectious Agents - Because Varizig is made from human plasma, it may
 carry a risk of transmitting infectious agents. The plasma donors are screened for the presence of certain infectious
 agents and the manufacturing process includes measures to inactivate and remove certain viruses. The most common
 adverse re
 
-Page 110:
+Page 204:
 actions overserved in clinical trials for all subjects and patients are the following: injection site pain (3%),
 headache (2%), rash (1%), fatigue (1%) , chills (1%), and nausea (1%).
 Clinical studies did not include sufficient numbers of geriatric patients to determine whether they respond differently than
 younger patients to Varizig. A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other
-Considerations and a Financial Review Based on Cost Analysis were presented.
+Considerations and a Financial Review Based on Cost Analysis were pres
+
+Page 205:
+ented.
 Clinical Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (34 approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
@@ -1490,10 +1775,10 @@ Outcome: Varizig will be a medical benefit and should be added to the medical be
 authorization criteria will apply.
 Additional evidence of the crit
 
-Page 111:
+Page 206:
 eria used to make this decision can be found in the drug review presented to the committee.
 
-Page 112:
+Page 207:
 CLASS REVIEWS
 ACTEMRA BIOSIMILAR CLASS REVIEW
 Review:
@@ -1508,7 +1793,10 @@ Subcutaneous Injection
 Injection: 162 mg/0.9 mL in a single-dose prefilled syringe or single-
 dose prefilled ACTPen® autoinjector
 Tofidence Biogen MA, Inc. Intravenous Infusion
-Injection: 80 mg/4 mL (20 mg/mL), 200 mg/10 mL (20 mg/mL), 400
+Injection: 80 mg/4 mL (20 mg/mL)
+
+Page 208:
+, 200 mg/10 mL (20 mg/mL), 400
 mg/20 mL (20 mg/mL) in single-dose vials for further dilution
 Tyenne Fresenius Kabi Intravenous Infusion
 USA, LLC Injection: 80 mg/4 mL (20 mg/mL), 200 mg/10 mL (20 mg/mL), 400
@@ -1519,116 +1807,143 @@ dose prefilled autoinjector
 Tofidence: Pharmacokinetic similarity was demonstrated between Tofidence and US-Actemra and supported a
 demo
 
-Page 113:
+Page 209:
 nstration of no clinically meaningful difference between Tyenne and US-Actemra for the IV route of administration.
 Additionally, a scientific bridge was established between Tofidence, US-Actemra, and EU-RoActemra to support the
 relevance of comparative data generated using EU-RoActemra in the biosimilarity assessment.
 Tofidence was compared to EU-RoActemra in Study BAT-1806-002-CR, a double, randomized, parallel group, active-
-controlled study in patients with RA and inadequate response to methotrexate. The primary endpoint was the percentage
+controlled study in patients with RA and inadequate response to metho
+
+Page 210:
+trexate. The primary endpoint was the percentage
 of subjects achieving an American College of Rheumatology 20% (ACR20) response at Week 24. Secondary endpoints
 included change from baseline in Disease Activity Score on 28 Joints (DAS28), percentage of patients achieving ACR20,
 ACR50, and ACR70 response, and change from baseline in ACR and DAS28 individual components.
 At Week 24, the adjusted ACR20 response rates were 68% and 70% in the EU-RoActemra and Tofidence groups,
 respectively. The 90% CI 
 
-Page 114:
+Page 211:
 was within the prespecified similarity margins. The supportive and sensitivity analysis of the
 primary and secondary endpoints at Week 24 support the conclusion of similar efficacy and a demonstration of no
 clinically meaningful differences between Tofidence, EU-RoActemra, and US-Actemra.
 Similar incidence of anti-drug antibody (ADA) and neutralizing antibody (NAb) formation was demonstrated in Study BAT-
-1806-002-CR between Tofidence and EU-RoActemra in subjects with RA as well as between Tofidence, EU-RoActemra,
+1806-002-CR between Tofidence and EU-RoActemra in subjects with RA as well as between Tofid
+
+Page 212:
+ence, EU-RoActemra,
 and US-Actemra in healthy subjects. This suggests a demonstration of no clinically meaningful differences in collective
 immunogenicity results.
 No new safety signals were identified in the Tofidence treatment arm compared to the known adverse event profile of US-
 Actemra. Overall treatment emergent adverse events were similar between treatment arms in all studies. There were no
 major differences in SAE, TEAEs, AEs leading to discontinuation, and adverse events of special inte
 
-Page 115:
+Page 213:
 rest (AESI) based on
 the known safety profile of US-Actemra between the treatment groups.
 Tofidence is indicated for intravenous use in pediatric patients 2 years of age and older with PJIA and SJIA. The safety
 and efficacy of Tofidence in pediatric patients with conditions other than PJIA and SJIA has not been established. The
 safety and efficacy of use of Tofidence in pediatric patients less than 2 years of age has not been established.
-The safety and efficacy of Tofidence in geriatric patients is based on clinical studies of Actemra which showed that the
+The safety and efficacy of Tofidence in geriatric patient
+
+Page 214:
+s is based on clinical studies of Actemra which showed that the
 frequency of serious infection in tocilizumab treated patients was higher in patients 65 years of age and older compared to
 those under the age of 65. As there is a higher incidence of infections in the elderly population in general, caution should
 be used when treated elderly patients with Tofidence.
 Tyenne: Pharmacokinetic similarity was demonstrated between Tyenne and US-Actemra and supported a demonstration
 of no clinically mean
 
-Page 116:
+Page 215:
 ingful difference between Tyenne and US-Actemra for both the IV and SC routes of administration.
 
-Page 117:
+Page 216:
 Additionally, a scientific bridge was established between Tyenne, US-Actemra, and EU-RoActemra to support the
 relevance of comparative data generated using EU-RoActemra in the biosimilarity assessment.
 Tyenne was compared to EU-RoActemra in Study FKS456-001, a randomized, double-blind, active comparator, 2-arm
 parallel group study evaluating the efficacy, safety, and immunogenicity of SC administration in patients with moderately
-to severely active RA. The primary endpoint was mean change from baseline in Disease Activity Score-28 Erythrocyte
+to severely active RA. The primary endpoint was mean change from b
+
+Page 217:
+aseline in Disease Activity Score-28 Erythrocyte
 Sedimentation Rate (DAS28-ESR) at Week 24. The key secondary endpoint was based on 20% improvement in
 American College of Rheumatology (ACR) Core Set Measurements (ACR20) response rate at Week 24.
 At Week 24, the estimated mean change from baseline in DAS28-ESR was -3.53 in the Tyenne treatment arm compared
 to -3.54 in the EU-RoActemra arm. Analysis of the key secondary endpoint showed similarity between the treatment arms.
 Results of the primary 
 
-Page 118:
+Page 218:
 and secondary endpoints support the finding of no meaningful differences in efficacy between
 Tyenne and EU-RoActemra.
 Similar incidence of anti-drug antibody (ADA) and neutralizing antibody (NAb) formation was demonstrated in Study
 FKS456-001 between Tyenne and EU-RoActemra in subjects with RA as well as between Tyenne and US-Actemra in
 healthy subjects. This suggests a demonstration of no clinically meaningful differences in collective immunogenicity
 results.
-The safety risks identified in Study FKS456-001 were consistent with the known adverse event profile of US-Actemra.
+The safety risks identified in Stud
+
+Page 219:
+y FKS456-001 were consistent with the known adverse event profile of US-Actemra.
 Treatment-emergent adverse events (TEAEs), serious adverse events (SAEs), deaths, adverse events leading to IMP
 discontinuation, and development of anti-drug antibodies (ADA) were generally similar between the treatment groups in
 the comparative clinical study FKS456-001.
 Tyenne is indicated for both intravenous and subcutaneous use in pediatric patients 2 years of age and older with PJIA
 and SJIA. The safety and ef
 
-Page 119:
+Page 220:
 ficacy of pediatric patients with conditions other than PJIA or SJIA have not been established.
 The safety and efficacy of Tyenne use in pediatric patients less than 2 years of age has not been established.
 The safety and efficacy of Tyenne in geriatric patients is based on clinical studies of Actemra which showed that the
 frequency of serious infection in tocilizumab treated patients was higher in patients 65 years of age and older compared to
-those under the age of 65. As there is a higher incidence of infections in the elderly population in general, caution should
+those under the age of 65. As there is a higher inc
+
+Page 221:
+idence of infections in the elderly population in general, caution should
 be used when treated elderly patients with Tyenne.
 A Clinical Review including Clinical Information, Efficacy Evidence, Safety Evidence, Other Considerations and a
 Financial Review Based on Cost Analysis were presented.
 Clinical Discussion: Austin Paisley, PharmD, asked if we can add criteria to require failure of biosimilars in the reauth
 criteria for Commercial medical benefit. Kimberly Reichard, PharmD, stated that we c
 
-Page 120:
+Page 222:
 an add. The committee unanimously
 voted to accept the recommendations as presented (34 approvals). None were opposed.
 Financial Discussion: No comments or questions. The committee unanimously voted to accept the recommendations as
 presented (32 approvals). None were opposed.
 Outcome: Tofidence IV Solution is a medical benefit for Commercial, Marketplace, and GHP Kids and will require a prior
-authorization. Tolifdence IV will be added to the medical benefit cost share list. When processed at a specialty pharmacy,
+authorization. Tolifdence IV will be added to the medical benefit cost share list. When processed at a sp
+
+Page 223:
+ecialty pharmacy,
 Tolfidence IV will process on the Specialty tier or Brand NP for members with a three-tier benefit. Tofidence IV Solution
 will be added to the Medical Benefit 76.0 Actemra Policy as outlined below.
 Tyenne IV Solution is a medical benefit for Commercial, Marketplace, and GHP Kids and will require a prior authorization.
 Tyenne IV Solution will be added to the medical benefit cost share list. When processed at a specialty pharmacy, Tyenne
 IV Solution will process on the Specialty 
 
-Page 121:
+Page 224:
 tier or Brand NP for members with a three-tier benefit. Tyenne IV Solution will be
 added to the Medical Benefit 76.0 Actemra Policy as outlined below.
 Tyenne Auto-injector and Prefilled Syringe (self-administered) is a pharmacy benefit and will be added to the Specialty tier
 or Brand NP tier for members with a three-tier benefit on the Commercial, Marketplace, and GHP Kids formulary. Tyenne
-Auto-injector and Prefilled Syringe will be added to Commercial Policy 321.0 Actemra Self-Injectable Policy as outlined
+Auto-injector and Prefilled Syringe will be added to Commercial Policy 321.0 Actemra Self-Injectable Polic
+
+Page 225:
+y as outlined
 below.
 Commercial Policy 321.0 Actemra Self Injectable
 An exception for coverage of Actemra Self Injectable or Tyenne Self-Injectable may be made for members who meet the
 following criteria:
 Rheumatoid Arthritis
 
-Page 122:
+Page 226:
 • Medical record documentation that Actemra Self Injectable or Tyenne Self Inejctable is prescribed by a
 rheumatologist AND
 • Medical record documentation of a diagnosis of moderate to severe rheumatoid arthritis (made in accordance with
 the American College of Rheumatology Criteria for the Classification and Diagnosis of Rheumatoid Arthritis AND
 • Medical record documentation of age greater than or equal to 18 years AND
-• Medical record documentation of therapeutic failure on, intolerance to, or contraindication to a minimum 3 month
+• Medical record documentation of therapeutic failure on, intolerance to, o
+
+Page 227:
+r contraindication to a minimum 3 month
 trial of two (2) preferred formulary biologics for the treatment of rheumatoid arthritis AND
 • Medical record documentation that Actemra or Tyenne is not being used concurrently with a tumor necrosis factor
 (TNF) blocker or other biologic agent AND
@@ -1636,14 +1951,17 @@ trial of two (2) preferred formulary biologics for the treatment of rheumatoid a
 on, intolerance to, or contraindication to tocilizumab-aazg (Tyenne).
 MEDISPAN AUTHORIZATION LEV
 
-Page 123:
+Page 228:
 EL: GPI-14, number of claims authorized = 1, enter for the remainder of the calendar
 year
 QUANTITY LIMIT: No QLs need to be entered within the authorization unless the requested quantity exceeds the QL.
 • QL FOR LETTER ONLY: 3.6 mL per 28 days
 RE-AUTHORIZATION CRITERIA: Actemra self-injectable and Tyenne self-injectable will be configured as a prior
 authorization for new starts only. Actemra self-injectable and Tyenne self-injectable will no longer be covered if it is
-identified that the member is not receiving appropriate follow-up care from the prescribing specialist or if the member has
+identified that the member 
+
+Page 229:
+is not receiving appropriate follow-up care from the prescribing specialist or if the member has
 greater than or equal to a 90 day break in therapy.
 • Medical record documentation that the member is receiving appropriate follow-up care from the prescribing
 specialist
@@ -1652,14 +1970,17 @@ Active polyarticular juvenile idiopathic arthritis (PJIA)
 rheumatologist AND
 • Medical record documentation of a diagnosis of a
 
-Page 124:
+Page 230:
 ctive polyarticular juvenile idiopathic arthritis or juvenile
 rheumatoid arthritis AND
 • Medical record documentation of age greater than or equal to 2 years AND
 • Medical record documentation of an intolerance to, contraindication to, or therapeutic failure on a minimum 3
 month trial of two (2) preferred formulary biologics for the treatment of juvenile idiopathic arthritis or juvenile
 rheumatoid arthritis AND
-• Medical record documentation that Actemra or Tyenne is not being used concurrently with a tumor necrosis factor
+• Medical record documentation that Actemra or Tyenne is not being used concurrently 
+
+Page 231:
+with a tumor necrosis factor
 (TNF) blocker or other biologic agent AND
 • For tocilizumab reference product requests (i.e. Actemra), medical record documentation of a therapeutic failure
 on, intolerance to, or contraindication to tocilizumab-aazg (Tyenne).
@@ -1668,13 +1989,16 @@ year
 QUANTITY LIMIT: No QLs need to be entered within the authorization unless the requested quantity exceeds the QL.
 • QL FOR LETTER
 
-Page 125:
+Page 232:
  ONLY: 3.6 mL per 28 days
 RE-AUTHORIZATION CRITERIA: Actemra self-injectable and Tyenne self-injectable will be configured as a prior
 authorization for new starts only. Actemra self-injectable and Tyenne self-injectable will no longer be covered if it is
 identified that the member is not receiving appropriate follow-up care from the prescribing specialist or if the member has
 greater than or equal to a 90 day break in therapy.
-• Medical record documentation that the member is receiving appropriate follow-up care from the prescribing
+• Medical record documentation that the member is receiving appropria
+
+Page 233:
+te follow-up care from the prescribing
 specialist
 Active systemic juvenile idiopathic arthritis (SJIA)
 • Medical record documentation that Actemra Self Injectable or Tyenne Self Inectable is prescribed by a
@@ -1683,20 +2007,23 @@ rheumatologist AND
 • Medical record documentation of age greater than or equal to 2 years AND
 • Medical record documentation that Actemra or Tyenne is not being used concurrently with a tumor ne
 
-Page 126:
+Page 234:
 crosis factor
 (TNF) or other biologic agent AND
 • For tocilizumab reference product requests (i.e. Actemra), medical record documentation of a therapeutic failure
 on, intolerance to, or contraindication to tocilizumab-aazg (Tyenne).
 
-Page 127:
+Page 235:
 MEDISPAN AUTHORIZATION LEVEL: GPI-14, number of claims authorized = 1, enter for the remainder of the calendar
 year
 QUANTITY LIMIT: No QLs need to be entered within the authorization unless the requested quantity exceeds the QL.
 • QL FOR LETTER ONLY: 3.6 mL per 28 days
 RE-AUTHORIZATION CRITERIA: Actemra self-injectable and Tyenne self-injectable will be configured as a prior
 authorization for new starts only. Actemra self-injectable and Tyenne self-injectable will no longer be covered if it is
-identified that the member is not receiving appropriate follow-up care from the prescribing specialist or if the member has
+i
+
+Page 236:
+dentified that the member is not receiving appropriate follow-up care from the prescribing specialist or if the member has
 greater than or equal to a 90 day break in therapy.
 • Medical record documentation that the member is receiving appropriate follow-up care from the prescribing
 specialist
@@ -1705,14 +2032,17 @@ Giant Cell Arteritis
 rheumatologist AND
 • Medical record documentation of a diagnosis of giant cell ar
 
-Page 128:
+Page 237:
 teritis AND
 • Medical record documentation that Actemra is being prescribed in combination with oral glucocorticoids AND
 • Medical record documentation that Actemra or Tyenne is not being used concurrently with a tumor necrosis factor
 (TNF) blocker or other biologic agent AND
 • For tocilizumab reference product requests (i.e. Actemra), medical record documentation of a therapeutic failure
 on, intolerance to, or contraindication to tocilizumab-aazg (Tyenne).
-MEDISPAN AUTHORIZATION LEVEL: GPI-14, number of claims authorized = 1, enter for the remainder of the calendar
+MEDISPAN AUTHORIZATION LEVEL: GPI-14, 
+
+Page 238:
+number of claims authorized = 1, enter for the remainder of the calendar
 year
 QUANTITY LIMIT: No QLs need to be entered within the authorization unless the requested quantity exceeds the QL.
 • QL FOR LETTER ONLY: 3.6 mL per 28 days
@@ -1720,14 +2050,17 @@ RE-AUTHORIZATION CRITERIA: Actemra self-injectable and Tyenne self-injectable wi
 authorization for new starts only. Actemra self-injectable and Tyenne self-injectable will no longer be covered if it is
 identified that the member is not recei
 
-Page 129:
+Page 239:
 ving appropriate follow-up care from the prescribing specialist or if the member has
 greater than or equal to a 90 day break in therapy.
 • Medical record documentation that the member is receiving appropriate follow-up care from the prescribing
 specialist
 NOTE: Although traditionally the erythrocyte sedimentation rate and/or C-reactive protein are high in giant cell arteritis,
 the range of values for both test is broad and non-specific.
-Systemic Sclerosis-Associated Interstitial Lung Disease (SSc-ILD) (ACTEMRA ONLY)
+Systemic Sclerosis-Associated Interstitial Lung Disease (SS
+
+Page 240:
+c-ILD) (ACTEMRA ONLY)
 • Medical record documentation that Actemra Self Injectable is prescribed by or in consultation with a pulmonologist
 and/or rheumatologist AND
 • Medical record documentation of age greater than or equal to 18 years AND
@@ -1735,7 +2068,7 @@ and/or rheumatologist AND
 Rheumatology (ACR) and European League Against Rheumatism (EULAR) AND
 • Medical record documentation that Actemra is not being used concurrently with a tumor 
 
-Page 130:
+Page 241:
 necrosis factor (TNF)
 blocker or other biologic agent
 • Medical record documentation of systemic sclerosis related to interstitial lung disease confirmed by all of the
@@ -1745,7 +2078,10 @@ o
 DLCO (diffusion capacity of the lung for carbon monoxide) 30-89% of predicted normal
 o
 COVID-19 (ACTEMRA ONLY)
-If Actemra is being prescribed for COVID-19, see the FDA website for Emergency Use Authorizations at
+If Actemra is being prescribed for C
+
+Page 242:
+OVID-19, see the FDA website for Emergency Use Authorizations at
 https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-
 authorization#coviddrugs for current FDA authorized use. At this time, Actemra is authorized for inpatient use only for
 COVID-19 and would not be covered for outpatient use.
@@ -1753,16 +2089,19 @@ Medical Benefit Policy 76.0 Actemra IV
 Indications which Do Not Require Prior Authorization for use (Actemra IV Only):
 Claims submitted with the fol
 
-Page 131:
+Page 243:
 lowing diagnosis for use do not require prior authorization for use:
 
-Page 132:
+Page 244:
 • Chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome (CRS)
 Actemra IV (tocilizumab), Tofidence IV (tocilizumab-bavi), or Tyenne IV (tocilizumab-aazg) will be considered medically
 necessary for commercial, exchange, and CHIP lines of business when all of the following criteria are met:
 1. Adults with moderate to severe rheumatoid arthritis
 • Medical record documentation that member is 18 years of age or greater AND
-• Prescription written by a rheumatologist AND
+• Prescription written by a rheum
+
+Page 245:
+atologist AND
 • Physician provided documentation of a diagnosis of moderate to severe rheumatoid arthritis (made in accordance
 with the American College of Rheumatology Criteria for the Classification of Diagnosis of Rheumatoid Arthritis)
 AND
@@ -1770,7 +2109,7 @@ AND
 blocker or other biologic agent AND
 • Medical record documentation of a therapeutic failure on, contraindication to or intolerance to 12 weeks 
 
-Page 133:
+Page 246:
 of
 Humira*, Rinvoq*, OR Xeljanz* AND
 • For tocilizumab reference product requests (i.e. Actemra IV), medical record documentation of a therapeutic
@@ -1779,7 +2118,10 @@ failure on, intolerance to, or contraindication to tocilizumab-bavi (Tolfidence)
 2. Active systemic juvenile idiopathic arthritis (SJIA)
 • Prescription written by a rheumatologist AND
 • Patient is 2 years of age or older AND
-• Medical record documentation of a diagnosis of systemic juvenile idiopathic arthritis AND
+• Medical record documentation of a diagnosis of systemic juvenile 
+
+Page 247:
+idiopathic arthritis AND
 • Medical record documentation that Actemra or tocilizumab biosimilars are not being used concurrently with a TNF
 blocker or other biologic agent AND
 • For tocilizumab reference product requests (i.e. Actemra IV), medical record documentation of a therapeutic
@@ -1787,7 +2129,7 @@ failure on, intolerance to, or contraindication to tocilizumab-bavi (Tolfidence)
 3. Active polyarticular juvenile idiopathic arthritis (PJIA)
 • Medical record documentation that member
 
-Page 134:
+Page 248:
  is 2 years of age or greater AND
 • Prescription is written by a rheumatologist AND
 • Medical record documentation of a diagnosis active polyarticular juvenile idiopathic arthritis or juvenile rheumatoid
@@ -1795,7 +2137,10 @@ arthritis AND
 • Medical record documentation that Actemra or tocilizumab biosimilars are not being used concurrently with a TNF
 blocker or other biologic agent AND
 • Physician provided documentation of a therapeutic failure on, contraindication to or intolerance to a minimum 4
-month trial of Humira* AND
+month trial of Hum
+
+Page 249:
+ira* AND
 • For tocilizumab reference product requests (i.e. Actemra IV), medical record documentation of a therapeutic
 failure on, intolerance to, or contraindication to tocilizumab-bavi (Tolfidence) and tocilizumab-aazg (Tyenne).
 *Requires prior authorization
@@ -1805,36 +2150,42 @@ failure on, intolerance to, or contraindication to tocilizumab-bavi (Tolfidence)
 • Patient is 18 years of age or older AND
 • Medical record documentation that Actemra or tocil
 
-Page 135:
+Page 250:
 izumab biosimilars are not being used concurrently with a TNF
 blocker or other biologic agent AND
 • For tocilizumab reference product requests (i.e. Actemra IV), medical record documentation of a therapeutic
 failure on, intolerance to, or contraindication to tocilizumab-bavi (Tolfidence) and tocilizumab-aazg (Tyenne).
 Note to Reviewer: If Actemra IV or Tofidence IV is being prescribed for COVID-19, see the FDA website for Emergency
-Use Authorizations at https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-
+Use Authorizations at https://www.fda.gov/emergency-preparedness
+
+Page 251:
+-and-response/mcm-legal-regulatory-and-policy-
 framework/emergency-use-authorization#coviddrugs for current FDA authorized use. At this time, Actemra is authorized
 for inpatient use only for COVID-19 and would not be covered for outpatient use.
 AUTHORIZATION DURATION: Approval will be given for an initial duration of six (6) months. For
 continuation of coverage, medical record documentation of clinical improvement or a lack of progression in the signs and
 symptoms of the targeted disease state a
 
-Page 136:
+Page 252:
 t six (6) months of Actemra, Tofidence, or Tyenne therapy is required.
 
-Page 137:
+Page 253:
 After the initial six (6) month approval, subsequent approvals for coverage will be for a duration of one (1) year.
 Reevaluation of coverage will be every one (1) year requiring medical record documentation of continued or sustained
 improvement in the signs and symptoms of the targeted disease while on Actemra, Tofidence, or Tyenne therapy.
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 
-Page 138:
+Page 254:
 UPDATES
 DEXMETHYLPHENIDATE ER UPDATE
 Background: An update to policy 94.0 (Stimulants for ADHD) was presented to committee in the August 2024 electronic
 vote, as a part of the Relexxi Line Extension review. The recommended update, which was approved by the committee’s
 vote, was to change the prior authorization criteria to include dexmethylphenidate ER as a preferred formulary alternative.
 Policy criteria was recommended to be updated as follows:
-• Medical record documentation of a contraindication to, intolerance to, or therapeutic failure on two generic
+• Medical record documentation of a contraindicat
+
+Page 255:
+ion to, intolerance to, or therapeutic failure on two generic
 formulary alternatives (methylphenidate CD, amphetamine/dextroamphetamine SR combination,
 dexmethylphenidate ER), one of which must contain the same active ingredient as the product requested, if
 available
@@ -1842,7 +2193,7 @@ Dexmethylphenidate ER currently requires a prior authorization for the commercia
 Noted below are the costs of dexmethylphenidate compared to the current preferred formulary alternatives that do not
 
 
-Page 139:
+Page 256:
 require prior authorization.
 Formulary
 Formulary
@@ -1860,7 +2211,10 @@ Adult starting dose:
 10 mg/day
 Methylphenidate ER (CD) Once daily dosing;
 $1.67 - $3.88
-Capsules: 10, 20, 30, 40, Adult/Pediatric Max $46.76 - $108.64 Tier 1/Tier 3 Tier 4
+Capsules: 10, 20, 30, 40, Adult/Pediatric Max $46.76 - $108.64 Tier 1/Tie
+
+Page 257:
+r 3 Tier 4
 [MAC]
 50, 60 mg
 Dose: 60 mg/day
@@ -1877,20 +2231,23 @@ dexmethylphenidate ER capsules for commercial/exchange/CHIP lines of business.
 Discussion: No comments or questions.
 Outcome: T
 
-Page 140:
+Page 258:
 he committee unanimously voted to accept the recommendations as presented (33 approvals). None were
 opposed.
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 PALONOSETRON & FOSAPREPITANT UPDATE
 Background: During the OncoHealth implementation process, it was identified that the prices of palonosetron and
 fosaprepitant have significantly decreased over the past few years and that the prior authorization and associated step
+
+
+Page 259:
 therapy may no longer be benefitting Geisinger to the extent that it previously was. Cost and prior authorization analyses
 were done and is presented in the table below.
 Drug Dose HCPCS Code $ Per Dose PA Volume Approval %
 (Last 12 (Last 12
 months) Months)
 
-Page 141:
+Page 260:
 ondansetron 8 mg or 0.15 J2405 $0.74 No PA needed n/a
 mg/kg
 granisetron 10 mcg/kg J1626 $2.09 No PA needed n/a
@@ -1900,7 +2257,10 @@ fosaprepitant 150 mg J1453 $24.90 362 cases 99% (359
 cases)
 Comparing the anticipated cost per prior authorization case, cost per dose of palonosetron and fosaprepitant, and current
 GHP approval percentage of requested prior authorizations, it appears that there is minimal benefit of requiring prior
-authorization for these two medications.
+authorization for these two m
+
+Page 261:
+edications.
 Recommendation: It is recommended that the requirement for prior authorization for palonosetron and fosaprepitant be
 removed for the Commercial/Exchange/CHIP lines of business. Policy MB 24.0 for palonosetron and policy MB 104.0 for
 fosaprepitant will be retired.
@@ -1909,13 +2269,16 @@ Outcome: The committee unanimously voted to accept the recommendations as presen
 opposed.
 Additional evidence of the criteria used to make this decision can 
 
-Page 142:
+Page 262:
 be found in the drug review presented to the committee.
 SYFOZRE & IZERVAY UPDATE
 Background: As part of Eye Disorder CarePath discussions, updates to the Syfovre and Izervay policy were
 recommended. Among the topics discussed were to delete the criteria point regarding CNV, change the authorization
 duration to allow for closer monitoring, and add criteria points regarding best corrected visual acuity and safety.
-Recommendation: It is recommended to update the prior authorization criteria and update the authorization duration.
+Recommendation: It is recommended to update the prior authorization criteria and upd
+
+Page 263:
+ate the authorization duration.
 MBP 278.0 Syfovre (pegcetacoplan)
 Syfovre (pegcetacoplan) will be considered medically necessary for the Commercial, Exchange, CHIP, and Medicare lines
 of business when ALL of the following criteria are met:
@@ -1924,32 +2287,38 @@ degeneration (AMD) AND
 • Medical record documentation of a confirmed diagnosis of geographic atrophy (GA) using imagining modalities,
 including but not 
 
-Page 143:
+Page 264:
 limited to fundus autofluorescence (FAF), fundus photography, or optical coherence tomography
 (OCT) AND
 • Medical record documentation of a current (within 3 months) best corrected visual acuity (BCVA) of 20/320 or
 better (for example 20/200, 20/80, 20/70, etc) in the eye(s) to be treated with Syfovre AND
 • Medical record documentation that Syfovre will not be administered concurrently with other complement inhibitors
 for the treatment of geographic atrophy secondary to AMD (i.e. Izervay)
-• For new starts only: Medical record documentation of the absence of active, or history of, choroidal
+• For 
+
+Page 265:
+new starts only: Medical record documentation of the absence of active, or history of, choroidal
 neovascularization* (CNV) in the eye(s) to be treated with Syfovre.
 *Note: Age-related macular degeneration (AMD) with CNV is often referred to as exudative AMD (eAMD), neovascular
 AMD (nAMD), or wet AMD (wAMD).
 AUTHORIZATION DURATION: Approvals will be given for a lifetime duration. Initial approval will be for 12 months or less
 if the reviewing provider feels it is medically appropriate. Subsequent
 
-Page 144:
+Page 266:
  approvals will be for 12 months or less if the
 reviewing provider feels it is medically appropriate and will require the following criteria:
 • Medical record documentation of a current (within 3 months) best corrected visual acuity (BCVA) of better than
 20/320 (for example 20/200, 20/80, 20/70, etc.) in the eye(s) being treated with Syfovre AND
 • Medical record documentation of the absence, or resolution, of Retinal Vasculitis, Retinal Vascular Occlusion,
-and/or active Intraocular Inflammation (including but not limited to: vitritis, vitreal cells, iridocyclitis, uveitis, anterior
+and/or active Intraocular Inflammation 
+
+Page 267:
+(including but not limited to: vitritis, vitreal cells, iridocyclitis, uveitis, anterior
 chamber cells, iritis, and anterior chamber flare) AND
 • Medical record documentation that Syfovre will not be administered concurrently with other complement inhibitors
 for the treatment of geographic atrophy secondary to AMD (i.e. Izervay)
 
-Page 145:
+Page 268:
 AND
 • One of the following:
 Medical record documentation of the absence of active choroidal neovascularization (CNV), or
@@ -1960,7 +2329,10 @@ o
 Medical record documentation of rationale for continued use in the setting of worsening CNV, or nAMD
 o
 (eg. The benefits of Syfovre outweigh the risks of Syfovre administration)
-QUANTITY LIMIT: 0.2mL (30mg) per 25 days (15mg per eye per 25 days)
+QUANTITY LIMIT: 0.2
+
+Page 269:
+mL (30mg) per 25 days (15mg per eye per 25 days)
 MBP 316.0 Izervay (avacincaptad pegol)
 Izervay (avacincaptad pegol) will be considered medically necessary for the Commercial, Exchange, CHIP, and Medicare
 lines of business when ALL of the following criteria are met:
@@ -1968,20 +2340,23 @@ lines of business when ALL of the following criteria are met:
 degeneration (AMD) AND
 • Medical record documentation of a confirmed diagnosis of GA using imagining modalities, including bu
 
-Page 146:
+Page 270:
 t not limited
 to fundus autofluorescence (FAF), fundus photography, or optical coherence tomography (OCT) AND
 • Medical record documentation of a current (within 3 months) best corrected visual acuity (BCVA) of 20/320 or
 better (for example 20/200, 20/80, 20/70, etc) in the eye(s) to be treated with Izervay AND
 • For new starts only: Medical record documentation of the absence of active, or history of, choroidal
 neovascularization* (CNV) in the eye(s) to be treated with Izervay AND
-• Medical record documentation that Izervay will not be administered concurrently with other complement inhibitors
+• Medical rec
+
+Page 271:
+ord documentation that Izervay will not be administered concurrently with other complement inhibitors
 for the treatment of geographic atrophy secondary to age-related macular degeneration (AMD) (i.e. Syfovre)
 AUTHORIZATION DURATION: 12 months Initial approval will be for 12 months or less if the reviewing provider feels it is
 medically appropriate. Subsequent approvals will be for 12 months or less if the reviewing provider feels it is medically
 appropriate and will require the following criteri
 
-Page 147:
+Page 272:
 a:
 • Medical record documentation of a current (within 3 months) best corrected visual acuity (BCVA) of better than
 20/320 (for example 20/200, 20/80, 20/70, etc.) in the eye(s) being treated with Izervay AND
@@ -1989,7 +2364,10 @@ a:
 for the treatment of geographic atrophy secondary to AMD (i.e. Syfovre)
 AND
 • One of the following:
-Medical record documentation of the absence of active choroidal neovascularization (CNV), or
+Medical record documentation of the absence of active choroidal neovasculari
+
+Page 273:
+zation (CNV), or
 o
 neovascular (wet) Age Related Macular Degeneration (nAMD) in the Izervay-treated eye(s) OR
 Medical record documentation that the member’s active CNV, or nAMD is NOT worsening OR
@@ -2001,16 +2379,19 @@ QUANTITY LIMIT: 0.2 mL (4 mg) per 28 days (2 mg per eye per 28 days)
 Discussion: No comments or questions.
 Outcome: The com
 
-Page 148:
+Page 274:
 mittee unanimously voted to accept the recommendations as presented (37 approvals). None were
 opposed.
 Additional evidence of the criteria used to make this decision can be found in the drug review presented to the committee.
 SITE OF CARE UPDATE
 Background: Currently the below medications are medical benefits that require prior authorization for the commercial line
 of business and are not on the Site of Care Program. After review of the respective FDA-approved labels, it has been
-determined that the below medications are acceptable candidates for the Site of Care program.
+determined that
 
-Page 149:
+Page 275:
+ the below medications are acceptable candidates for the Site of Care program.
+
+Page 276:
 Recommendation: It is recommended the following changes (highlighted in green) be made to MBP 181.0 so that this
 policy may reflect the addition of the below medications to the Site of Care Program. The addition of secukinumab and
 tezepelumab to the self-injected drug list is recommended.
@@ -2018,7 +2399,10 @@ MBP 181.0 Site of Care
 I. Policy:
 Site of Care Review Guidelines for Infusion Drugs and Specialty Medications
 II. Purpose/Objective:
-To provide a policy of coverage regarding the use of hospital-based outpatient facilities as a site of care for drugs that
+To provide a policy of coverage regarding the use of hospital-based outpatien
+
+Page 277:
+t facilities as a site of care for drugs that
 require administration via intravenous infusion or injection. This policy applies to these medications:
 1. Abatacept (Orencia IV) 47. Pozelimab (Veopoz)
 2. ADAMTS13 [Recombinant] (Adzynma) 48. Ravulizumab (Ultomiris)
@@ -2027,7 +2411,7 @@ require administration via intravenous infusion or injection. This policy applie
 5. Alpha1-Proteinase Inhibitor [Human] products 51. Sebelipase alfa (Kanuma)
 6. Anifrolumab-fnia (Saphnelo) 52. Secu
 
-Page 150:
+Page 278:
 kinumab (Cosentyx IV)
 7. Avalglucosidase alfa-ngpt (Nexviazyme) 53. Sutimlimab (Enjaymo)
 8. Belimumab (Benlysta IV) 54. Taliglucerase alfa (Elelyso)
@@ -2036,7 +2420,10 @@ kinumab (Cosentyx IV)
 11. Burosumab (Crysvita) 57. Tezepelumab (Tezspire)
 12. C1 esterase Inhibitor [Human] (Cinryze) 58. Tildrakizumab (Ilumya)
 13. Canakinumab (Ilaris) 59. Tocilizumab (Actemra IV)
-14. Casimersen (Amondys 45) 60. Ublituximab-xiiy (Briumvi)
+14. Casimersen (Amondys 45) 60. Ublituximab-xiiy 
+
+Page 279:
+(Briumvi)
 15. Certolizumab (Cimzia) 61. Ustekinumab (Stelara)
 16. Cipaglucosidase alfa (Pombiliti) 62. Vedolizumab (Entyvio)
 17. Crizanlizumab (Adakveo) 63. Velaglucerase alfa (Vpriv)
@@ -2048,7 +2435,7 @@ kinumab (Cosentyx IV)
 23. Eptinezumab (Vyepti)
 24. Efgartigimod Alfa (Vyvga
 
-Page 151:
+Page 280:
 rt & Vyvgart Hytrulo)
 25. Eteplirsen (Exondys 51)
 26. Evinacumab (Evkeeza)
@@ -2067,13 +2454,16 @@ rt & Vyvgart Hytrulo)
 39. Lumasiran (Oxlumo)
 40. Mepolizumab (Nucala)
 41. Natalizumab (Tysabri)
-42. Ocrelizumab (Ocrevus)
+42. Oc
+
+Page 281:
+relizumab (Ocrevus)
 43. Olipudase alfa-rpcp (Xenpozyme)
 44. Omalizumab (Xolair)
 45. Patisiran (Onpattro)
 46. Pegunigalsidase Alfa (Elfabrio)
 
-Page 152:
+Page 282:
 III. Responsibility:
 A. Medical Directors
 B. Medical Management
@@ -2084,7 +2474,10 @@ policy writer or department requiring/authoring the policy.
 2. Exhibit – a supporting document developed and maintained in a department other than
 3. the department requiring/authoring the policy.
 4. Devised – the date the policy was implemented.
-5. Revised – the date of every revision to the policy, including typographical and
+5. Revised – the date of every revision to the policy, includin
+
+Page 283:
+g typographical and
 grammatical changes.
 6. Reviewed – the date documenting the annual review if the policy has no revisions necessary.
 7. Site of Care – choice of physical location for administration of intravenous infusions or injections.
@@ -2092,7 +2485,7 @@ Site of care locations include hospital inpatient, hospital based outpatient fac
 office, ambulatory infusion centers, or home infusion services.
 8. Alternative less intensive site of care facilities include non-hospital affiliated outpatie
 
-Page 153:
+Page 284:
 nt infusion
 centers such as ambulatory infusion centers or physician’s offices and home infusion
 9. Hospital based outpatient facilities include ER services, intravenous drug infusions or injections,
@@ -2101,6 +2494,9 @@ the patient is not admitted as an inpatient.
 V. Additional Definitions
 Medical Necessity or Medically Necessary means Covered Services rendered by a Health Care
 Provider that the Plan determines are:
+
+Page 285:
+
 a. appropriate for the symptoms and diagnosis or treatment of the Member's condition, illness,
 disease or injury;
 b. provided for the diagnosis and the direct care and treatment of the Member's condition, illness
@@ -2110,7 +2506,7 @@ community;
 d. not primarily for the convenience of the Member, or the Member's Health Care Provider; and
 e. the most appropriate source or level of service that can safely
 
-Page 154:
+Page 286:
  be provided to the Member. When
 applied to hospitalization, this further means that the Member requires acute care as an inpatient
 due to the nature of the services rendered or the Member's condition, and the Member cannot
@@ -2118,7 +2514,10 @@ receive safe or adequate care as an outpatient
 DESCRIPTION:
 Specific intravenous and injectable drugs must meet applicable medical necessity criteria for coverage. If
 these criteria are met, this coverage policy will be used to determine the medical necessity of
-administration in the hospital based outpatient setting. If medical necessity criteria for administration in
+administratio
+
+Page 287:
+n in the hospital based outpatient setting. If medical necessity criteria for administration in
 the hospital based outpatient setting are not met, an alternative less intensive site of care facility should
 be utilized.
 CRITERIA FOR USE: Requires Prior Authorization by Medical Director or Designee
@@ -2126,19 +2525,22 @@ Administration in the hospital-based outpatient setting will be considered medic
 and LIMITED to a duration of 60 days (for Xolair (omalizumab), a duration of up to 90 days if the
 reviewing
 
-Page 155:
+Page 288:
  provider determines it is medically appropriate) when one of the following criteria are
 met:
 1. This is the initial medication infusion OR
 • Member is reinitiating treatment after not receiving any treatments for at least 6 months.
 
-Page 156:
+Page 289:
 AUTHORIZATION DURATION: Initial approval will be for a duration of 60 days (for Xolair, up to 90
 days). Administration in the hospital-based outpatient setting for longer than the initially approved
 amount will be required to meet the authorization criteria in the section below.
 Administration in the hospital-based outpatient setting will be considered medically necessary for
 a duration of greater than 60 days when one of the following criteria are met:
-• The medication has a site of care restriction for administration per the FDA approved label OR
+• The medication has a site of care restri
+
+Page 290:
+ction for administration per the FDA approved label OR
 • Documented previous history of severe or potentially life-threatening adverse event during or
 following administration and the adverse event cannot be managed using pre-medication(s) or
 adjusting the rate of infusion OR
@@ -2148,7 +2550,7 @@ o
 member’s home (within 50 miles) AND
 Home healthcare or infusion provider has determined that the patient
 
-Page 157:
+Page 291:
 , home caregiver, or
 o
 home environment is not appropriate for home infusion or home infusion services are not
@@ -2157,7 +2559,10 @@ For request of a provider administered drug, for which a self-administered formu
 o
 available, including but not limited to abatacept, belimumab, benralizumab, certolizumab,
 golimumab, mepolizumab, omalizumab, secukinumab, tezepelumab, tocilizumab, and
-ustekinumab: medical record documentation of a therapeutic failure of or intolerance to a
+ustekinumab: medical record documentation of a therapeutic failure of or intolerance
+
+Page 292:
+ to a
 3 month trial of the self-administered formulation of the respective product.
 OR
 • For IVIG any of the above criteria OR
@@ -2173,13 +2578,16 @@ o
 same encounter
 AUTHORIZATION DURATION: 
 
-Page 158:
+Page 293:
 Initial approval will be for the same length of time as the
 authorization of the specific drug being administered. Subsequent approvals will be required if
 the specific drug requires subsequent authorizations.
 NOTE: To prevent a delay in care and allow adequate transition time for members to an alternate infusion
 site, members already established on therapy who do not meet any of the above criteria will be given a
-60-day transition auth to allow them to continue receiving therapy at their current hospital based
+60-day transition auth to allow them to continue receiving therapy at their curren
+
+Page 294:
+t hospital based
 outpatient facility while they transition to a different infusion site.
 Discussion: No comments or questions.
 Outcome: The committee unanimously voted to accept the recommendations as presented (34
@@ -2190,10 +2598,10 @@ MEDICAL BENEFIT POLICY UPDATES
 Recommendation: It is recommended that the Xofigo and Medical Drug Optimization Program policies
 are
 
-Page 159:
+Page 295:
  updated as follows:
 
-Page 160:
+Page 296:
 MBP 110.0 Xofigo (radium Ra 223 dichloride)
 • Must be prescribed by hematologist/oncologist or radiation oncologist AND
 • Medical record documentation of castration-resistant prostate cancer with symptomatic bone
@@ -2201,6 +2609,9 @@ metastases and no known visceral metastatic disease
 AUTHORIZATION LIMIT: 6 injections total (given at 4 week intervals)
 MBP 300.0 Medical Benefit Drug Optimization Program (Commercial, Exchange)
 The following (highlighted) products are recommended to be added to the Medical Benefit Drug
+
+Page 297:
+
 Optimization Program effective on 3/1/25. No other changes are recommended to the program at this
 time.
 I. Policy:
@@ -2212,7 +2623,7 @@ reimbursement to a provider or facility. This policy applies to these medication
 1. AbobotulinumtoxinA (Dysport)
 2. A
 
-Page 161:
+Page 298:
 tezolizumab (Tecentriq)
 3. Avelumab (Bavencio)
 4. Cemiplimab (Libtayo)
@@ -2229,7 +2640,10 @@ tezolizumab (Tecentriq)
 15. Mogamulizumab (Poteligeo)
 16. Nivolumab (Opdivo)
 17. Obinutuzumab (Gazyva)
-18. Octreotide depot (Sandostatin LAR)
+18. Octreotide depot (Sandostatin LAR
+
+Page 299:
+)
 19. OnabotulinumtoxinA (Botox)
 20. Panitumumab (Vectibix)
 21. Pembrolizumab (Keytruda)
@@ -2245,7 +2659,7 @@ tezolizumab (Tecentriq)
 31. Trastuzumab (Herceptin)
 32. Tremelimumab (Imjudo)
 
-Page 162:
+Page 300:
 Discussion: No comments or questions.
 Outcome: The committee unanimously voted to accept the recommendations as presented (38
 approvals). None were opposed.
@@ -2254,7 +2668,10 @@ to the committee.
 QUARTERLY CASE AUDIT
 Background: The Quarterly Case Audit for 2nd quarter 2024 was held on August 29, 2024.
 Recommendation: It was discussed that a policy should be created in the future for the Commercial LOB
-for levocetirizine (prescription only formulation) to ensure consistency amongst reviewers. We will
+for levoce
+
+Page 301:
+tirizine (prescription only formulation) to ensure consistency amongst reviewers. We will
 continue to look for opportunities to create more drug specific policies at future quarterly case audit
 meetings.
 Additional evidence of the criteria used to make this decision can be found in the drug review presented
@@ -2263,6 +2680,6 @@ Meeting adjourned at 3:09 pm.
 The next bi-monthly scheduled meeting will be held on November 19th, 2024 at 1:00 p.m.
 Meeting will be held virtually via phone/Microsoft Teams
 
-Page 163:
+Page 302:
 .
 
