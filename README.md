@@ -2,6 +2,8 @@
 
 A modular, agent-driven RAG platform built with FastAPI that combines contextual document retrieval and real-time web search to deliver accurate and scalable AI-powered reponses.
 
+![alt text](image.png)
+
 ## Table of Contents
 
 - [Features](#features)
